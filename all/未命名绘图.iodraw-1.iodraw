@@ -158,6 +158,9 @@
         <mxCell id="cmxeHvxkf0P6xSYeF6GF-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cmxeHvxkf0P6xSYeF6GF-51" target="cmxeHvxkf0P6xSYeF6GF-53">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="cmxeHvxkf0P6xSYeF6GF-88" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cmxeHvxkf0P6xSYeF6GF-51" target="cmxeHvxkf0P6xSYeF6GF-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cmxeHvxkf0P6xSYeF6GF-51" value="滑光" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;gradientColor=#7ea6e0;" vertex="1" parent="1">
           <mxGeometry x="360" y="3190" width="120" height="60" as="geometry" />
         </mxCell>
@@ -247,6 +250,9 @@
         </mxCell>
         <mxCell id="cmxeHvxkf0P6xSYeF6GF-86" value="内部工艺" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
           <mxGeometry x="500" y="260" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cmxeHvxkf0P6xSYeF6GF-87" value="滑光" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="3190" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
