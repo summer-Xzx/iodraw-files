@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="Z2cV0s5NwWgNJlZ0NO0x">
-    <mxGraphModel dx="1509" dy="813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2607" dy="1404" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -182,28 +182,28 @@
         <mxCell id="cmxeHvxkf0P6xSYeF6GF-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cmxeHvxkf0P6xSYeF6GF-59" target="cmxeHvxkf0P6xSYeF6GF-61">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cmxeHvxkf0P6xSYeF6GF-59" value="上线（刀线）" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" vertex="1" parent="1">
+        <mxCell id="cmxeHvxkf0P6xSYeF6GF-59" value="上线（刀线）" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;gradientColor=#7ea6e0;" vertex="1" parent="1">
           <mxGeometry x="360" y="3770" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cmxeHvxkf0P6xSYeF6GF-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cmxeHvxkf0P6xSYeF6GF-61" target="cmxeHvxkf0P6xSYeF6GF-63">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cmxeHvxkf0P6xSYeF6GF-61" value="三整（整形）" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" vertex="1" parent="1">
+        <mxCell id="cmxeHvxkf0P6xSYeF6GF-61" value="三整（整形）" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;gradientColor=#7ea6e0;" vertex="1" parent="1">
           <mxGeometry x="360" y="3910" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cmxeHvxkf0P6xSYeF6GF-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cmxeHvxkf0P6xSYeF6GF-63" target="cmxeHvxkf0P6xSYeF6GF-65">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cmxeHvxkf0P6xSYeF6GF-63" value="剪刀清洗" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" vertex="1" parent="1">
+        <mxCell id="cmxeHvxkf0P6xSYeF6GF-63" value="剪刀清洗" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;gradientColor=#7ea6e0;" vertex="1" parent="1">
           <mxGeometry x="360" y="4050" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cmxeHvxkf0P6xSYeF6GF-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" edge="1" parent="1" source="cmxeHvxkf0P6xSYeF6GF-65" target="cmxeHvxkf0P6xSYeF6GF-67">
+        <mxCell id="cmxeHvxkf0P6xSYeF6GF-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cmxeHvxkf0P6xSYeF6GF-65" target="cmxeHvxkf0P6xSYeF6GF-67">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cmxeHvxkf0P6xSYeF6GF-65" value="螺丝装配" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;gradientColor=#7ea6e0;" vertex="1" parent="1">
           <mxGeometry x="360" y="4190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cmxeHvxkf0P6xSYeF6GF-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" edge="1" parent="1" source="cmxeHvxkf0P6xSYeF6GF-67" target="cmxeHvxkf0P6xSYeF6GF-69">
+        <mxCell id="cmxeHvxkf0P6xSYeF6GF-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cmxeHvxkf0P6xSYeF6GF-67" target="cmxeHvxkf0P6xSYeF6GF-69">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cmxeHvxkf0P6xSYeF6GF-67" value="出口，开刃" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;gradientColor=#7ea6e0;" vertex="1" parent="1">
