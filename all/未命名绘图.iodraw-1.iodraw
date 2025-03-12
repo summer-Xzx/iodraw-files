@@ -254,7 +254,7 @@
             <mxPoint x="420" y="3510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cmxeHvxkf0P6xSYeF6GF-87" value="滑光" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;gradientColor=#7ea6e0;" vertex="1" parent="1">
+        <mxCell id="cmxeHvxkf0P6xSYeF6GF-87" value="消声器" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;gradientColor=#7ea6e0;" vertex="1" parent="1">
           <mxGeometry x="360" y="3350" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
