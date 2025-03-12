@@ -155,7 +155,7 @@
         <mxCell id="cmxeHvxkf0P6xSYeF6GF-49" value="冲轻水洗" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;gradientColor=#7ea6e0;" vertex="1" parent="1">
           <mxGeometry x="360" y="3050" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cmxeHvxkf0P6xSYeF6GF-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cmxeHvxkf0P6xSYeF6GF-51" target="cmxeHvxkf0P6xSYeF6GF-53">
+        <mxCell id="cmxeHvxkf0P6xSYeF6GF-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cmxeHvxkf0P6xSYeF6GF-87" target="cmxeHvxkf0P6xSYeF6GF-53">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cmxeHvxkf0P6xSYeF6GF-88" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cmxeHvxkf0P6xSYeF6GF-51" target="cmxeHvxkf0P6xSYeF6GF-87">
@@ -168,82 +168,82 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cmxeHvxkf0P6xSYeF6GF-53" value="半成品验货" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;rounded=0;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="365" y="3420" width="110" height="80" as="geometry" />
+          <mxGeometry x="365" y="3510" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="cmxeHvxkf0P6xSYeF6GF-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cmxeHvxkf0P6xSYeF6GF-55" target="cmxeHvxkf0P6xSYeF6GF-57">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cmxeHvxkf0P6xSYeF6GF-55" value="二整（整形）" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;gradientColor=#7ea6e0;" vertex="1" parent="1">
-          <mxGeometry x="360" y="3590" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="3680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cmxeHvxkf0P6xSYeF6GF-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cmxeHvxkf0P6xSYeF6GF-57" target="cmxeHvxkf0P6xSYeF6GF-59">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cmxeHvxkf0P6xSYeF6GF-57" value="复里口" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;gradientColor=#7ea6e0;" vertex="1" parent="1">
-          <mxGeometry x="360" y="3730" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="3820" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cmxeHvxkf0P6xSYeF6GF-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cmxeHvxkf0P6xSYeF6GF-59" target="cmxeHvxkf0P6xSYeF6GF-61">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cmxeHvxkf0P6xSYeF6GF-59" value="上线（刀线）" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;gradientColor=#7ea6e0;" vertex="1" parent="1">
-          <mxGeometry x="360" y="3870" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="3960" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cmxeHvxkf0P6xSYeF6GF-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cmxeHvxkf0P6xSYeF6GF-61" target="cmxeHvxkf0P6xSYeF6GF-63">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cmxeHvxkf0P6xSYeF6GF-61" value="三整（整形）" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;gradientColor=#7ea6e0;" vertex="1" parent="1">
-          <mxGeometry x="360" y="4010" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="4100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cmxeHvxkf0P6xSYeF6GF-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cmxeHvxkf0P6xSYeF6GF-63" target="cmxeHvxkf0P6xSYeF6GF-65">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cmxeHvxkf0P6xSYeF6GF-63" value="剪刀清洗" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;gradientColor=#7ea6e0;" vertex="1" parent="1">
-          <mxGeometry x="360" y="4150" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="4240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cmxeHvxkf0P6xSYeF6GF-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cmxeHvxkf0P6xSYeF6GF-65" target="cmxeHvxkf0P6xSYeF6GF-67">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cmxeHvxkf0P6xSYeF6GF-65" value="螺丝装配" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;gradientColor=#7ea6e0;" vertex="1" parent="1">
-          <mxGeometry x="360" y="4290" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="4380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cmxeHvxkf0P6xSYeF6GF-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cmxeHvxkf0P6xSYeF6GF-67" target="cmxeHvxkf0P6xSYeF6GF-69">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cmxeHvxkf0P6xSYeF6GF-67" value="出口，开刃" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;gradientColor=#7ea6e0;" vertex="1" parent="1">
-          <mxGeometry x="360" y="4430" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="4520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cmxeHvxkf0P6xSYeF6GF-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cmxeHvxkf0P6xSYeF6GF-69" target="cmxeHvxkf0P6xSYeF6GF-71">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cmxeHvxkf0P6xSYeF6GF-69" value="圆头" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;gradientColor=#7ea6e0;" vertex="1" parent="1">
-          <mxGeometry x="360" y="4570" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="4660" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cmxeHvxkf0P6xSYeF6GF-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cmxeHvxkf0P6xSYeF6GF-71" target="cmxeHvxkf0P6xSYeF6GF-75">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cmxeHvxkf0P6xSYeF6GF-71" value="剪刀擦拭" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;gradientColor=#7ea6e0;" vertex="1" parent="1">
-          <mxGeometry x="360" y="4710" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="4800" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cmxeHvxkf0P6xSYeF6GF-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cmxeHvxkf0P6xSYeF6GF-75" target="cmxeHvxkf0P6xSYeF6GF-77">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cmxeHvxkf0P6xSYeF6GF-75" value="成品验货" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;rounded=0;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="360" y="4840" width="120" height="80" as="geometry" />
+          <mxGeometry x="360" y="4930" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="cmxeHvxkf0P6xSYeF6GF-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cmxeHvxkf0P6xSYeF6GF-77" target="cmxeHvxkf0P6xSYeF6GF-79">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cmxeHvxkf0P6xSYeF6GF-77" value="镭雕" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;gradientColor=#7ea6e0;" vertex="1" parent="1">
-          <mxGeometry x="360" y="5010" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="5100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cmxeHvxkf0P6xSYeF6GF-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cmxeHvxkf0P6xSYeF6GF-79" target="cmxeHvxkf0P6xSYeF6GF-81">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cmxeHvxkf0P6xSYeF6GF-79" value="包装" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;gradientColor=#7ea6e0;" vertex="1" parent="1">
-          <mxGeometry x="360" y="5150" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="5240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cmxeHvxkf0P6xSYeF6GF-81" value="客户验货，出货" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=0;gradientColor=#ffd966;" vertex="1" parent="1">
-          <mxGeometry x="360" y="5290" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="5380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cmxeHvxkf0P6xSYeF6GF-85" value="外加工" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" vertex="1" parent="1">
           <mxGeometry x="500" y="300" width="60" height="30" as="geometry" />
@@ -251,8 +251,14 @@
         <mxCell id="cmxeHvxkf0P6xSYeF6GF-86" value="内部工艺" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
           <mxGeometry x="500" y="260" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="cmxeHvxkf0P6xSYeF6GF-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cmxeHvxkf0P6xSYeF6GF-51" target="cmxeHvxkf0P6xSYeF6GF-87">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="3250" as="sourcePoint" />
+            <mxPoint x="420" y="3510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="cmxeHvxkf0P6xSYeF6GF-87" value="滑光" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;gradientColor=#7ea6e0;" vertex="1" parent="1">
-          <mxGeometry x="500" y="3300" width="120" height="60" as="geometry" />
+          <mxGeometry x="380" y="3350" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
