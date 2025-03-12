@@ -10,7 +10,7 @@
         <mxCell id="cmxeHvxkf0P6xSYeF6GF-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cmxeHvxkf0P6xSYeF6GF-1" target="cmxeHvxkf0P6xSYeF6GF-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cmxeHvxkf0P6xSYeF6GF-1" value="客户订单" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="cmxeHvxkf0P6xSYeF6GF-1" value="客户订单" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
           <mxGeometry x="340" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cmxeHvxkf0P6xSYeF6GF-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cmxeHvxkf0P6xSYeF6GF-2" target="cmxeHvxkf0P6xSYeF6GF-16">
@@ -39,7 +39,7 @@
         <mxCell id="cmxeHvxkf0P6xSYeF6GF-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cmxeHvxkf0P6xSYeF6GF-9" target="cmxeHvxkf0P6xSYeF6GF-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cmxeHvxkf0P6xSYeF6GF-9" value="打眼" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="cmxeHvxkf0P6xSYeF6GF-9" value="打眼" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
           <mxGeometry x="460" y="530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cmxeHvxkf0P6xSYeF6GF-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cmxeHvxkf0P6xSYeF6GF-11" target="cmxeHvxkf0P6xSYeF6GF-14">
@@ -62,13 +62,13 @@
         <mxCell id="cmxeHvxkf0P6xSYeF6GF-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cmxeHvxkf0P6xSYeF6GF-16" target="cmxeHvxkf0P6xSYeF6GF-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cmxeHvxkf0P6xSYeF6GF-16" value="焊接" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="cmxeHvxkf0P6xSYeF6GF-16" value="焊接" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
           <mxGeometry x="360" y="930" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cmxeHvxkf0P6xSYeF6GF-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cmxeHvxkf0P6xSYeF6GF-19" target="cmxeHvxkf0P6xSYeF6GF-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cmxeHvxkf0P6xSYeF6GF-19" value="砂轮，改样" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="cmxeHvxkf0P6xSYeF6GF-19" value="砂轮，改样" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
           <mxGeometry x="360" y="1070" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cmxeHvxkf0P6xSYeF6GF-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cmxeHvxkf0P6xSYeF6GF-21" target="cmxeHvxkf0P6xSYeF6GF-23">
