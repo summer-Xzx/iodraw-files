@@ -224,7 +224,7 @@
         <mxCell id="cmxeHvxkf0P6xSYeF6GF-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cmxeHvxkf0P6xSYeF6GF-75" target="cmxeHvxkf0P6xSYeF6GF-77">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cmxeHvxkf0P6xSYeF6GF-75" value="成品验货" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=0;" vertex="1" parent="1">
+        <mxCell id="cmxeHvxkf0P6xSYeF6GF-75" value="成品验货" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;rounded=0;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="360" y="4740" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="cmxeHvxkf0P6xSYeF6GF-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cmxeHvxkf0P6xSYeF6GF-77" target="cmxeHvxkf0P6xSYeF6GF-79">
@@ -239,7 +239,7 @@
         <mxCell id="cmxeHvxkf0P6xSYeF6GF-79" value="包装" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="360" y="5050" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cmxeHvxkf0P6xSYeF6GF-81" value="客户验货，出货" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" vertex="1" parent="1">
+        <mxCell id="cmxeHvxkf0P6xSYeF6GF-81" value="客户验货，出货" style="whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;rounded=0;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="360" y="5190" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
