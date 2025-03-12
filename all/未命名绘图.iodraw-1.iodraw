@@ -74,49 +74,49 @@
         <mxCell id="cmxeHvxkf0P6xSYeF6GF-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cmxeHvxkf0P6xSYeF6GF-21" target="cmxeHvxkf0P6xSYeF6GF-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cmxeHvxkf0P6xSYeF6GF-21" value="镶配" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="cmxeHvxkf0P6xSYeF6GF-21" value="镶配" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
           <mxGeometry x="360" y="1210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cmxeHvxkf0P6xSYeF6GF-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cmxeHvxkf0P6xSYeF6GF-23" target="cmxeHvxkf0P6xSYeF6GF-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cmxeHvxkf0P6xSYeF6GF-23" value="砂圈" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="cmxeHvxkf0P6xSYeF6GF-23" value="砂圈" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
           <mxGeometry x="360" y="1350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cmxeHvxkf0P6xSYeF6GF-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cmxeHvxkf0P6xSYeF6GF-25" target="cmxeHvxkf0P6xSYeF6GF-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cmxeHvxkf0P6xSYeF6GF-25" value="抛光" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="cmxeHvxkf0P6xSYeF6GF-25" value="抛光" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
           <mxGeometry x="360" y="1490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cmxeHvxkf0P6xSYeF6GF-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cmxeHvxkf0P6xSYeF6GF-27" target="cmxeHvxkf0P6xSYeF6GF-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cmxeHvxkf0P6xSYeF6GF-27" value="平面抛" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="cmxeHvxkf0P6xSYeF6GF-27" value="平面抛" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
           <mxGeometry x="360" y="1630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cmxeHvxkf0P6xSYeF6GF-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cmxeHvxkf0P6xSYeF6GF-29" target="cmxeHvxkf0P6xSYeF6GF-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cmxeHvxkf0P6xSYeF6GF-29" value="刀头平面抛" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="cmxeHvxkf0P6xSYeF6GF-29" value="刀头平面抛" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
           <mxGeometry x="360" y="1770" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cmxeHvxkf0P6xSYeF6GF-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cmxeHvxkf0P6xSYeF6GF-31" target="cmxeHvxkf0P6xSYeF6GF-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cmxeHvxkf0P6xSYeF6GF-31" value="里口" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="cmxeHvxkf0P6xSYeF6GF-31" value="里口" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
           <mxGeometry x="360" y="1910" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cmxeHvxkf0P6xSYeF6GF-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cmxeHvxkf0P6xSYeF6GF-33" target="cmxeHvxkf0P6xSYeF6GF-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cmxeHvxkf0P6xSYeF6GF-33" value="指边" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="cmxeHvxkf0P6xSYeF6GF-33" value="指边" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
           <mxGeometry x="360" y="2050" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cmxeHvxkf0P6xSYeF6GF-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cmxeHvxkf0P6xSYeF6GF-35" target="cmxeHvxkf0P6xSYeF6GF-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cmxeHvxkf0P6xSYeF6GF-35" value="打磨" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="cmxeHvxkf0P6xSYeF6GF-35" value="打磨" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
           <mxGeometry x="360" y="2190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cmxeHvxkf0P6xSYeF6GF-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cmxeHvxkf0P6xSYeF6GF-37" target="cmxeHvxkf0P6xSYeF6GF-39">
