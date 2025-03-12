@@ -34,7 +34,7 @@
           <mxGeometry x="460" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cmxeHvxkf0P6xSYeF6GF-7" value="齿剪（快走丝割齿&lt;span style=&quot;background-color: initial;&quot;&gt;）&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=0;dashed=1;dashPattern=8 8;gradientColor=#ea6b66;" vertex="1" parent="1">
-          <mxGeometry x="630" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="310" y="530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cmxeHvxkf0P6xSYeF6GF-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cmxeHvxkf0P6xSYeF6GF-9" target="cmxeHvxkf0P6xSYeF6GF-11">
           <mxGeometry relative="1" as="geometry" />
@@ -243,10 +243,10 @@
           <mxGeometry x="360" y="5190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cmxeHvxkf0P6xSYeF6GF-85" value="外加工" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" vertex="1" parent="1">
-          <mxGeometry x="510" y="300" width="60" height="30" as="geometry" />
+          <mxGeometry x="500" y="300" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cmxeHvxkf0P6xSYeF6GF-86" value="内部工艺" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
-          <mxGeometry x="510" y="260" width="60" height="30" as="geometry" />
+          <mxGeometry x="500" y="260" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
