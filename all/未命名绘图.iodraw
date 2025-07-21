@@ -40,8 +40,14 @@
         <mxCell id="ag8qBBVb529yXHRD2uFy-10" value="fitting样" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="820" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ag8qBBVb529yXHRD2uFy-12" value="fitting样" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="ag8qBBVb529yXHRD2uFy-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ag8qBBVb529yXHRD2uFy-12" target="ag8qBBVb529yXHRD2uFy-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ag8qBBVb529yXHRD2uFy-12" value="确认样计划时间" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ag8qBBVb529yXHRD2uFy-14" value="确认样计划时间" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="1100" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
