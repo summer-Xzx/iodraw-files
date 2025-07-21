@@ -64,8 +64,14 @@
         <mxCell id="ag8qBBVb529yXHRD2uFy-18" value="裁断&amp;amp;针车&amp;amp;成型计划时间" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="1380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ag8qBBVb529yXHRD2uFy-20" value="裁断&amp;amp;针车&amp;amp;成型计划时间" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="ag8qBBVb529yXHRD2uFy-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ag8qBBVb529yXHRD2uFy-20" target="ag8qBBVb529yXHRD2uFy-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ag8qBBVb529yXHRD2uFy-20" value="质检后出货计划时间" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="1520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ag8qBBVb529yXHRD2uFy-22" value="质检后出货计划时间" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="1660" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
