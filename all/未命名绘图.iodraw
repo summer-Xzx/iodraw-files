@@ -28,8 +28,14 @@
         <mxCell id="ag8qBBVb529yXHRD2uFy-6" value="配色样" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="540" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ag8qBBVb529yXHRD2uFy-8" value="配色样" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="ag8qBBVb529yXHRD2uFy-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ag8qBBVb529yXHRD2uFy-8" target="ag8qBBVb529yXHRD2uFy-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ag8qBBVb529yXHRD2uFy-8" value="下单给工厂" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ag8qBBVb529yXHRD2uFy-10" value="下单给工厂" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="820" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
