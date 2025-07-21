@@ -70,8 +70,11 @@
         <mxCell id="ag8qBBVb529yXHRD2uFy-20" value="质检后出货计划时间" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="1520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ag8qBBVb529yXHRD2uFy-22" value="质检后出货计划时间" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="ag8qBBVb529yXHRD2uFy-22" value="出货时间" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="1660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ag8qBBVb529yXHRD2uFy-24" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="615" y="128" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
