@@ -181,8 +181,14 @@
         <mxCell id="QwrNVRK_OFR0xSUTcKoA-25" value="供应商分配" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="730" y="1000" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="QwrNVRK_OFR0xSUTcKoA-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="QwrNVRK_OFR0xSUTcKoA-29" target="QwrNVRK_OFR0xSUTcKoA-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="QwrNVRK_OFR0xSUTcKoA-29" value="设计开发" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1040" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QwrNVRK_OFR0xSUTcKoA-31" value="设计开发" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="1060" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
