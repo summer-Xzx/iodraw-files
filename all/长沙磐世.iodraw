@@ -398,7 +398,7 @@
         <mxCell id="QwrNVRK_OFR0xSUTcKoA-88" value="商务合同" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="990" y="3325" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QwrNVRK_OFR0xSUTcKoA-90" value="新品下单" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QwrNVRK_OFR0xSUTcKoA-90" value="采购正式订单" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="860" y="3470" width="120" height="90" as="geometry" />
         </mxCell>
       </root>
