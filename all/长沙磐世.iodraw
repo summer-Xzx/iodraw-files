@@ -373,7 +373,7 @@
         <mxCell id="QwrNVRK_OFR0xSUTcKoA-84" value="新品下单流程&lt;div&gt;产品建G+资料&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1060" y="3155" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QwrNVRK_OFR0xSUTcKoA-86" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QwrNVRK_OFR0xSUTcKoA-86" value="供应链核价" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="860" y="3325" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
