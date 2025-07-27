@@ -263,7 +263,7 @@
         <mxCell id="QwrNVRK_OFR0xSUTcKoA-54" value="准确产品定义输出" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="860" y="1894" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QwrNVRK_OFR0xSUTcKoA-56" value="准确产品定义输出" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QwrNVRK_OFR0xSUTcKoA-56" value="最终生产供应商分配" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="2034" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
