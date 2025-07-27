@@ -130,8 +130,8 @@
         <mxCell id="QwrNVRK_OFR0xSUTcKoA-10" value="线上市场调研" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="880" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QwrNVRK_OFR0xSUTcKoA-12" value="市场调研" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1050" y="290" width="120" height="60" as="geometry" />
+        <mxCell id="QwrNVRK_OFR0xSUTcKoA-12" value="线下工厂市场调研" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
