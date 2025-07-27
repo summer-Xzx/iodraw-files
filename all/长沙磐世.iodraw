@@ -231,8 +231,14 @@
         <mxCell id="QwrNVRK_OFR0xSUTcKoA-44" value="初版样品" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="1570" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="QwrNVRK_OFR0xSUTcKoA-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="QwrNVRK_OFR0xSUTcKoA-46" target="QwrNVRK_OFR0xSUTcKoA-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="QwrNVRK_OFR0xSUTcKoA-46" value="初步成本" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="990" y="1570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QwrNVRK_OFR0xSUTcKoA-48" value="运营" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="990" y="1710" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
