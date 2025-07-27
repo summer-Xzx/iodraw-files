@@ -170,7 +170,7 @@
         <mxCell id="QwrNVRK_OFR0xSUTcKoA-22" value="结论：是否启动打初版样品" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="880" y="790" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QwrNVRK_OFR0xSUTcKoA-25" value="结论：是否启动打初版样品" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QwrNVRK_OFR0xSUTcKoA-25" value="供应商分配" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="880" y="930" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
