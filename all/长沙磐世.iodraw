@@ -125,13 +125,29 @@
           <mxGeometry x="880" y="-30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QwrNVRK_OFR0xSUTcKoA-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QwrNVRK_OFR0xSUTcKoA-8" target="ag8qBBVb529yXHRD2uFy-28">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="767" y="410" />
+              <mxPoint x="940" y="410" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="QwrNVRK_OFR0xSUTcKoA-8" value="设计输出&lt;div&gt;流行趋势&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="707" y="280" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="QwrNVRK_OFR0xSUTcKoA-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QwrNVRK_OFR0xSUTcKoA-10" target="ag8qBBVb529yXHRD2uFy-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="QwrNVRK_OFR0xSUTcKoA-10" value="线上市场调研" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="880" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QwrNVRK_OFR0xSUTcKoA-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QwrNVRK_OFR0xSUTcKoA-12" target="ag8qBBVb529yXHRD2uFy-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1120" y="410" />
+              <mxPoint x="940" y="410" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="QwrNVRK_OFR0xSUTcKoA-12" value="线下工厂市场调研" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1060" y="280" width="120" height="60" as="geometry" />
