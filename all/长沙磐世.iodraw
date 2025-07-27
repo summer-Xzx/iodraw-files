@@ -86,7 +86,7 @@
           <mxGeometry x="880" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ag8qBBVb529yXHRD2uFy-28" value="产品企划" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1030" y="410" width="120" height="60" as="geometry" />
+          <mxGeometry x="880" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ag8qBBVb529yXHRD2uFy-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ag8qBBVb529yXHRD2uFy-30" target="ag8qBBVb529yXHRD2uFy-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -123,6 +123,9 @@
         </mxCell>
         <mxCell id="QwrNVRK_OFR0xSUTcKoA-1" value="年度规划" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="880" y="-30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QwrNVRK_OFR0xSUTcKoA-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QwrNVRK_OFR0xSUTcKoA-8" target="ag8qBBVb529yXHRD2uFy-28">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QwrNVRK_OFR0xSUTcKoA-8" value="设计输出&lt;div&gt;流行趋势&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="707" y="280" width="120" height="60" as="geometry" />
