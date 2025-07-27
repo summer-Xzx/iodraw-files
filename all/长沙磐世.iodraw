@@ -410,8 +410,14 @@
         <mxCell id="588BhP9aCGJO0QlD-86U-1" value="产前准备" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="860" y="3655" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="588BhP9aCGJO0QlD-86U-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="588BhP9aCGJO0QlD-86U-3" target="588BhP9aCGJO0QlD-86U-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="588BhP9aCGJO0QlD-86U-3" value="生产阶段" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="860" y="3795" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="588BhP9aCGJO0QlD-86U-5" value="生产阶段" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="3935" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
