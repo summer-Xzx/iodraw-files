@@ -330,8 +330,8 @@
         <mxCell id="QwrNVRK_OFR0xSUTcKoA-70" value="打样第三阶段" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="860" y="2685" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QwrNVRK_OFR0xSUTcKoA-72" value="打样第三阶段" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="860" y="2825" width="120" height="60" as="geometry" />
+        <mxCell id="QwrNVRK_OFR0xSUTcKoA-72" value="Fitting样" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="2830" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
