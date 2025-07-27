@@ -374,7 +374,10 @@
           <mxGeometry x="1060" y="3155" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QwrNVRK_OFR0xSUTcKoA-86" value="供应链核价" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="860" y="3325" width="120" height="60" as="geometry" />
+          <mxGeometry x="740" y="3325" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QwrNVRK_OFR0xSUTcKoA-88" value="供应链核价" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="990" y="3325" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
