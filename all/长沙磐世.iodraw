@@ -179,7 +179,7 @@
           <mxGeometry x="880" y="790" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QwrNVRK_OFR0xSUTcKoA-25" value="供应商分配" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="1070" width="120" height="80" as="geometry" />
+          <mxGeometry x="720" y="1160" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="QwrNVRK_OFR0xSUTcKoA-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="QwrNVRK_OFR0xSUTcKoA-29" target="QwrNVRK_OFR0xSUTcKoA-31">
           <mxGeometry relative="1" as="geometry" />
@@ -212,7 +212,7 @@
           <mxGeometry x="1220" y="1310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QwrNVRK_OFR0xSUTcKoA-41" value="第一轮风险评估" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="1390" width="120" height="60" as="geometry" />
+          <mxGeometry x="870" y="1400" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
