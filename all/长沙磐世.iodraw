@@ -158,7 +158,7 @@
         <mxCell id="QwrNVRK_OFR0xSUTcKoA-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QwrNVRK_OFR0xSUTcKoA-18" target="QwrNVRK_OFR0xSUTcKoA-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QwrNVRK_OFR0xSUTcKoA-18" value="产品一审会议" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="QwrNVRK_OFR0xSUTcKoA-18" value="产品一审会议" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="880" y="630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QwrNVRK_OFR0xSUTcKoA-20" value="市场总结&lt;span style=&quot;background-color: initial;&quot;&gt;，提案&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
