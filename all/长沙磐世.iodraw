@@ -266,7 +266,12 @@
           <mxGeometry x="1110" y="1709" width="120" height="150" as="geometry" />
         </mxCell>
         <mxCell id="QwrNVRK_OFR0xSUTcKoA-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="QwrNVRK_OFR0xSUTcKoA-54" target="QwrNVRK_OFR0xSUTcKoA-60">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1050" y="2040" />
+              <mxPoint x="920" y="2040" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="QwrNVRK_OFR0xSUTcKoA-54" value="准确产品定义输出" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="990" y="1930" width="120" height="60" as="geometry" />
@@ -275,7 +280,7 @@
           <mxGeometry x="750" y="1930" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QwrNVRK_OFR0xSUTcKoA-60" value="准确产品定义输出" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="990" y="2070" width="120" height="60" as="geometry" />
+          <mxGeometry x="860" y="2090" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
