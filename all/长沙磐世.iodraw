@@ -77,34 +77,34 @@
           <mxGeometry x="980" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ag8qBBVb529yXHRD2uFy-28" value="产品企划" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="780" y="130" width="120" height="60" as="geometry" />
+          <mxGeometry x="720" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ag8qBBVb529yXHRD2uFy-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ag8qBBVb529yXHRD2uFy-30" target="ag8qBBVb529yXHRD2uFy-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ag8qBBVb529yXHRD2uFy-30" value="设计开发" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="880" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="930" y="860" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ag8qBBVb529yXHRD2uFy-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ag8qBBVb529yXHRD2uFy-32" target="ag8qBBVb529yXHRD2uFy-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ag8qBBVb529yXHRD2uFy-32" value="打样阶段" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="880" y="540" width="120" height="60" as="geometry" />
+          <mxGeometry x="930" y="1000" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ag8qBBVb529yXHRD2uFy-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ag8qBBVb529yXHRD2uFy-34" target="ag8qBBVb529yXHRD2uFy-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ag8qBBVb529yXHRD2uFy-34" value="产前准备" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="880" y="680" width="120" height="60" as="geometry" />
+          <mxGeometry x="930" y="1140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ag8qBBVb529yXHRD2uFy-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ag8qBBVb529yXHRD2uFy-36" target="ag8qBBVb529yXHRD2uFy-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ag8qBBVb529yXHRD2uFy-36" value="生产阶段" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="880" y="820" width="120" height="60" as="geometry" />
+          <mxGeometry x="930" y="1280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ag8qBBVb529yXHRD2uFy-38" value="上市准备" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="880" y="960" width="120" height="60" as="geometry" />
+          <mxGeometry x="930" y="1420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ag8qBBVb529yXHRD2uFy-40" value="市场调研" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1370" y="160" width="120" height="60" as="geometry" />
