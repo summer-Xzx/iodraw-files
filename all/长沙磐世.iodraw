@@ -85,6 +85,11 @@
         <mxCell id="ag8qBBVb529yXHRD2uFy-27" value="市场调研" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="880" y="140" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="QwrNVRK_OFR0xSUTcKoA-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ag8qBBVb529yXHRD2uFy-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="960" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ag8qBBVb529yXHRD2uFy-28" value="产品企划" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="880" y="450" width="120" height="60" as="geometry" />
         </mxCell>
