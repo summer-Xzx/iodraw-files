@@ -73,11 +73,16 @@
         <mxCell id="ag8qBBVb529yXHRD2uFy-22" value="出货时间" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="1660" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="QwrNVRK_OFR0xSUTcKoA-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ag8qBBVb529yXHRD2uFy-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="940" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ag8qBBVb529yXHRD2uFy-27" value="市场调研" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="980" y="130" width="120" height="60" as="geometry" />
+          <mxGeometry x="880" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ag8qBBVb529yXHRD2uFy-28" value="产品企划" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="720" y="250" width="120" height="60" as="geometry" />
+          <mxGeometry x="1030" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ag8qBBVb529yXHRD2uFy-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ag8qBBVb529yXHRD2uFy-30" target="ag8qBBVb529yXHRD2uFy-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -110,9 +115,6 @@
           <mxGeometry x="1370" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QwrNVRK_OFR0xSUTcKoA-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QwrNVRK_OFR0xSUTcKoA-1" target="ag8qBBVb529yXHRD2uFy-27">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="QwrNVRK_OFR0xSUTcKoA-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QwrNVRK_OFR0xSUTcKoA-1" target="ag8qBBVb529yXHRD2uFy-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QwrNVRK_OFR0xSUTcKoA-1" value="年度规划" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
