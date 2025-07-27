@@ -364,6 +364,14 @@
         <mxCell id="QwrNVRK_OFR0xSUTcKoA-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="QwrNVRK_OFR0xSUTcKoA-80" target="QwrNVRK_OFR0xSUTcKoA-86">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="QwrNVRK_OFR0xSUTcKoA-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="QwrNVRK_OFR0xSUTcKoA-80" target="QwrNVRK_OFR0xSUTcKoA-88">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="920" y="3280" />
+              <mxPoint x="1050" y="3280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="QwrNVRK_OFR0xSUTcKoA-80" value="新品下单" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="860" y="3140" width="120" height="90" as="geometry" />
         </mxCell>
@@ -376,7 +384,7 @@
         <mxCell id="QwrNVRK_OFR0xSUTcKoA-86" value="供应链核价" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="3325" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QwrNVRK_OFR0xSUTcKoA-88" value="供应链核价" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QwrNVRK_OFR0xSUTcKoA-88" value="商务合同" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="990" y="3325" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
