@@ -344,6 +344,9 @@
         <mxCell id="QwrNVRK_OFR0xSUTcKoA-74" value="确认样" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="990" y="2830" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="QwrNVRK_OFR0xSUTcKoA-77" value="技术评估及调整" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="2510" width="120" height="90" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
