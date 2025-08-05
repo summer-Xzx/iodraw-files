@@ -437,7 +437,7 @@
         <mxCell id="VHO9OGxE__veVKwZT7KB-23" value="准确产品定义" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1520" y="2180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VHO9OGxE__veVKwZT7KB-24" value="供应商分配&lt;div&gt;准确产品定义&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="VHO9OGxE__veVKwZT7KB-24" value="第二阶段样品" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="1780" y="2180" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
