@@ -401,7 +401,7 @@
         <mxCell id="VHO9OGxE__veVKwZT7KB-10" value="产品清单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1300" y="920" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VHO9OGxE__veVKwZT7KB-11" value="工厂分配" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VHO9OGxE__veVKwZT7KB-11" value="初版画像要求" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1560" y="920" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
