@@ -395,7 +395,7 @@
         <mxCell id="VHO9OGxE__veVKwZT7KB-8" value="产品清单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1300" y="790" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VHO9OGxE__veVKwZT7KB-9" value="评审结论" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VHO9OGxE__veVKwZT7KB-9" value="工厂分配" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1560" y="790" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
