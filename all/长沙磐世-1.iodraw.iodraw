@@ -485,7 +485,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VHO9OGxE__veVKwZT7KB-41" value="手剪全套" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="3940" width="120" height="60" as="geometry" />
+          <mxGeometry x="860" y="3820" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VHO9OGxE__veVKwZT7KB-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VHO9OGxE__veVKwZT7KB-44" target="VHO9OGxE__veVKwZT7KB-48">
           <mxGeometry relative="1" as="geometry" />
