@@ -132,7 +132,7 @@
           <mxGeometry x="880" y="620" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="QwrNVRK_OFR0xSUTcKoA-20" value="市场总结&lt;span style=&quot;background-color: initial;&quot;&gt;，提案&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1080" y="630" width="120" height="60" as="geometry" />
+          <mxGeometry x="1210" y="630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QwrNVRK_OFR0xSUTcKoA-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="QwrNVRK_OFR0xSUTcKoA-22" target="QwrNVRK_OFR0xSUTcKoA-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
