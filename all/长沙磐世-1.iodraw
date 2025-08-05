@@ -389,8 +389,14 @@
         <mxCell id="VHO9OGxE__veVKwZT7KB-6" value="产品评审PPT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1300" y="630" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VHO9OGxE__veVKwZT7KB-7" value="产品初版定义及PPT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VHO9OGxE__veVKwZT7KB-7" value="评审结论" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1560" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VHO9OGxE__veVKwZT7KB-8" value="产品评审PPT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VHO9OGxE__veVKwZT7KB-9" value="评审结论" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1570" y="640" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
