@@ -132,7 +132,7 @@
           <mxGeometry x="880" y="620" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="QwrNVRK_OFR0xSUTcKoA-20" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1300" y="-30" width="120" height="60" as="geometry" />
+          <mxGeometry x="1520" y="-30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QwrNVRK_OFR0xSUTcKoA-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="QwrNVRK_OFR0xSUTcKoA-22" target="QwrNVRK_OFR0xSUTcKoA-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -372,37 +372,37 @@
           <mxGeometry x="860" y="3470" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="VHO9OGxE__veVKwZT7KB-1" value="年度产品规划" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1560" y="-30" width="120" height="60" as="geometry" />
+          <mxGeometry x="1780" y="-30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VHO9OGxE__veVKwZT7KB-2" value="输入" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1300" y="-130" width="120" height="60" as="geometry" />
+          <mxGeometry x="1520" y="-130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VHO9OGxE__veVKwZT7KB-3" value="输出" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1560" y="-130" width="120" height="60" as="geometry" />
+          <mxGeometry x="1780" y="-130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VHO9OGxE__veVKwZT7KB-4" value="市场调研报告" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1300" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="1520" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VHO9OGxE__veVKwZT7KB-5" value="产品初版定义及PPT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1560" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="1780" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VHO9OGxE__veVKwZT7KB-6" value="产品评审PPT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1300" y="630" width="120" height="60" as="geometry" />
+          <mxGeometry x="1520" y="630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VHO9OGxE__veVKwZT7KB-7" value="评审结论" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1560" y="630" width="120" height="60" as="geometry" />
+          <mxGeometry x="1780" y="630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VHO9OGxE__veVKwZT7KB-8" value="产品清单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1300" y="790" width="120" height="60" as="geometry" />
+          <mxGeometry x="1520" y="790" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VHO9OGxE__veVKwZT7KB-9" value="工厂分配" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1560" y="790" width="120" height="60" as="geometry" />
+          <mxGeometry x="1780" y="790" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VHO9OGxE__veVKwZT7KB-10" value="产品清单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1300" y="920" width="120" height="60" as="geometry" />
+          <mxGeometry x="1520" y="920" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VHO9OGxE__veVKwZT7KB-11" value="初版画像要求" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1560" y="920" width="120" height="60" as="geometry" />
+          <mxGeometry x="1780" y="920" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
