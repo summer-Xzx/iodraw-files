@@ -523,16 +523,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VHO9OGxE__veVKwZT7KB-60" value="卖点讨论会" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1250" y="3530" width="120" height="60" as="geometry" />
+          <mxGeometry x="1200" y="4450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VHO9OGxE__veVKwZT7KB-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VHO9OGxE__veVKwZT7KB-61" target="VHO9OGxE__veVKwZT7KB-63">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VHO9OGxE__veVKwZT7KB-61" value="产品图片拍摄" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1250" y="3670" width="120" height="60" as="geometry" />
+          <mxGeometry x="1200" y="4590" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VHO9OGxE__veVKwZT7KB-63" value="listing设计" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1250" y="3810" width="120" height="60" as="geometry" />
+          <mxGeometry x="1200" y="4730" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VHO9OGxE__veVKwZT7KB-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VHO9OGxE__veVKwZT7KB-76" target="VHO9OGxE__veVKwZT7KB-52">
           <mxGeometry relative="1" as="geometry" />
