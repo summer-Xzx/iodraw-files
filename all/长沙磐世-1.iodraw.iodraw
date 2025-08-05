@@ -360,6 +360,9 @@
         <mxCell id="QwrNVRK_OFR0xSUTcKoA-88" value="商务合同" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1070" y="3330" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="VHO9OGxE__veVKwZT7KB-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QwrNVRK_OFR0xSUTcKoA-90" target="VHO9OGxE__veVKwZT7KB-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="QwrNVRK_OFR0xSUTcKoA-90" value="采购正式订单" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="860" y="3470" width="120" height="90" as="geometry" />
         </mxCell>
@@ -465,24 +468,11 @@
         <mxCell id="VHO9OGxE__veVKwZT7KB-37" value="基本码模具样确认" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="3680" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VHO9OGxE__veVKwZT7KB-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VHO9OGxE__veVKwZT7KB-39" target="VHO9OGxE__veVKwZT7KB-44">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="780" y="4090" />
-              <mxPoint x="920" y="4090" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="VHO9OGxE__veVKwZT7KB-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VHO9OGxE__veVKwZT7KB-39" target="VHO9OGxE__veVKwZT7KB-41">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VHO9OGxE__veVKwZT7KB-39" value="全码模具" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="860" y="3680" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="VHO9OGxE__veVKwZT7KB-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VHO9OGxE__veVKwZT7KB-41" target="VHO9OGxE__veVKwZT7KB-44">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1070" y="4090" />
-              <mxPoint x="920" y="4090" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="VHO9OGxE__veVKwZT7KB-41" value="手剪全套" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="860" y="3820" width="120" height="60" as="geometry" />
