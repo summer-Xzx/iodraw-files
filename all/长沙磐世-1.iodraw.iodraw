@@ -301,7 +301,7 @@
           <mxGeometry x="860" y="2685" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QwrNVRK_OFR0xSUTcKoA-72" value="&lt;b&gt;Fitting样&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="610" y="3200" width="120" height="60" as="geometry" />
+          <mxGeometry x="650" y="3330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VHO9OGxE__veVKwZT7KB-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QwrNVRK_OFR0xSUTcKoA-74" target="QwrNVRK_OFR0xSUTcKoA-77">
           <mxGeometry relative="1" as="geometry" />
@@ -318,13 +318,8 @@
         <mxCell id="QwrNVRK_OFR0xSUTcKoA-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="QwrNVRK_OFR0xSUTcKoA-80" target="QwrNVRK_OFR0xSUTcKoA-86" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QwrNVRK_OFR0xSUTcKoA-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="QwrNVRK_OFR0xSUTcKoA-80" target="QwrNVRK_OFR0xSUTcKoA-88" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="920" y="3280" />
-              <mxPoint x="1050" y="3280" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="VHO9OGxE__veVKwZT7KB-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QwrNVRK_OFR0xSUTcKoA-80" target="QwrNVRK_OFR0xSUTcKoA-72">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QwrNVRK_OFR0xSUTcKoA-80" value="新品下单" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="860" y="3140" width="120" height="90" as="geometry" />
