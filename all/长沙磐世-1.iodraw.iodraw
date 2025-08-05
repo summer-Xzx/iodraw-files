@@ -486,11 +486,8 @@
         <mxCell id="VHO9OGxE__veVKwZT7KB-44" value="手剪全套确认" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="860" y="3990" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="VHO9OGxE__veVKwZT7KB-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VHO9OGxE__veVKwZT7KB-48" target="VHO9OGxE__veVKwZT7KB-50">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="VHO9OGxE__veVKwZT7KB-48" value="刀模全套确认" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="860" y="4370" width="120" height="90" as="geometry" />
+          <mxGeometry x="860" y="4180" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="VHO9OGxE__veVKwZT7KB-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VHO9OGxE__veVKwZT7KB-50" target="VHO9OGxE__veVKwZT7KB-52">
           <mxGeometry relative="1" as="geometry" />
