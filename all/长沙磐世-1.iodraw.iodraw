@@ -339,18 +339,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QwrNVRK_OFR0xSUTcKoA-86" value="供应链核价" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="740" y="3325" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="QwrNVRK_OFR0xSUTcKoA-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="QwrNVRK_OFR0xSUTcKoA-88" target="QwrNVRK_OFR0xSUTcKoA-90" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1050" y="3430" />
-              <mxPoint x="920" y="3430" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry x="860" y="3330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QwrNVRK_OFR0xSUTcKoA-88" value="商务合同" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="990" y="3325" width="120" height="60" as="geometry" />
+          <mxGeometry x="1110" y="3330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VHO9OGxE__veVKwZT7KB-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QwrNVRK_OFR0xSUTcKoA-90" target="VHO9OGxE__veVKwZT7KB-35">
           <mxGeometry relative="1" as="geometry" />
