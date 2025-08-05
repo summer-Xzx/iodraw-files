@@ -319,6 +319,14 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VHO9OGxE__veVKwZT7KB-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QwrNVRK_OFR0xSUTcKoA-80" target="QwrNVRK_OFR0xSUTcKoA-72">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="920" y="3270" />
+              <mxPoint x="710" y="3270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VHO9OGxE__veVKwZT7KB-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QwrNVRK_OFR0xSUTcKoA-80" target="QwrNVRK_OFR0xSUTcKoA-88">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QwrNVRK_OFR0xSUTcKoA-80" value="新品下单" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
