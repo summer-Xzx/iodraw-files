@@ -444,10 +444,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VHO9OGxE__veVKwZT7KB-35" value="基本码模具" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="860" y="3670" width="120" height="60" as="geometry" />
+          <mxGeometry x="230" y="3540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VHO9OGxE__veVKwZT7KB-37" value="基本码模具样确认" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="860" y="3810" width="120" height="60" as="geometry" />
+          <mxGeometry x="230" y="3680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VHO9OGxE__veVKwZT7KB-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VHO9OGxE__veVKwZT7KB-39" target="VHO9OGxE__veVKwZT7KB-44">
           <mxGeometry relative="1" as="geometry">
