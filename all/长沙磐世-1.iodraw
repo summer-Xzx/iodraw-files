@@ -131,7 +131,7 @@
         <mxCell id="QwrNVRK_OFR0xSUTcKoA-18" value="产品一审会议" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="880" y="620" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="QwrNVRK_OFR0xSUTcKoA-20" value="市场总结&lt;span style=&quot;background-color: initial;&quot;&gt;，提案&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="QwrNVRK_OFR0xSUTcKoA-20" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1300" y="-30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QwrNVRK_OFR0xSUTcKoA-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="QwrNVRK_OFR0xSUTcKoA-22" target="QwrNVRK_OFR0xSUTcKoA-25" edge="1">
@@ -371,7 +371,7 @@
         <mxCell id="QwrNVRK_OFR0xSUTcKoA-90" value="采购正式订单" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="860" y="3470" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="VHO9OGxE__veVKwZT7KB-1" value="市场总结&lt;span style=&quot;background-color: initial;&quot;&gt;，提案&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VHO9OGxE__veVKwZT7KB-1" value="年度产品规划" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1560" y="-30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VHO9OGxE__veVKwZT7KB-2" value="输入" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
