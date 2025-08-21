@@ -824,7 +824,12 @@
           <mxGeometry x="3033" y="2810" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7kpYNWOS6Y2cklVHciH1-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VHO9OGxE__veVKwZT7KB-148" target="VHO9OGxE__veVKwZT7KB-155">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2963" y="3080" />
+              <mxPoint x="2843" y="3080" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="7kpYNWOS6Y2cklVHciH1-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VHO9OGxE__veVKwZT7KB-148" target="VHO9OGxE__veVKwZT7KB-156">
           <mxGeometry relative="1" as="geometry">
@@ -848,6 +853,9 @@
         </mxCell>
         <mxCell id="VHO9OGxE__veVKwZT7KB-155" value="供应链核价" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2783" y="3120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7kpYNWOS6Y2cklVHciH1-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VHO9OGxE__veVKwZT7KB-156" target="VHO9OGxE__veVKwZT7KB-151">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VHO9OGxE__veVKwZT7KB-156" value="商务合同" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3033" y="3130" width="120" height="60" as="geometry" />
@@ -952,6 +960,9 @@
         </mxCell>
         <mxCell id="VHO9OGxE__veVKwZT7KB-189" value="需要产研，技术，工厂三方评估。" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3273" y="1340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7kpYNWOS6Y2cklVHciH1-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VHO9OGxE__veVKwZT7KB-155" target="VHO9OGxE__veVKwZT7KB-151">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
