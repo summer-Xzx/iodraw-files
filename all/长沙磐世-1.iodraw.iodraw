@@ -826,6 +826,14 @@
         <mxCell id="7kpYNWOS6Y2cklVHciH1-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VHO9OGxE__veVKwZT7KB-148" target="VHO9OGxE__veVKwZT7KB-155">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="7kpYNWOS6Y2cklVHciH1-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VHO9OGxE__veVKwZT7KB-148" target="VHO9OGxE__veVKwZT7KB-156">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2963" y="3080" />
+              <mxPoint x="3093" y="3080" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="VHO9OGxE__veVKwZT7KB-148" value="签样存板" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="2903" y="2960" width="120" height="90" as="geometry" />
         </mxCell>
