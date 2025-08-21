@@ -823,6 +823,9 @@
         <mxCell id="VHO9OGxE__veVKwZT7KB-146" value="确认样" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3033" y="2810" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="7kpYNWOS6Y2cklVHciH1-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VHO9OGxE__veVKwZT7KB-148" target="VHO9OGxE__veVKwZT7KB-155">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="VHO9OGxE__veVKwZT7KB-148" value="签样存板" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="2903" y="2960" width="120" height="90" as="geometry" />
         </mxCell>
