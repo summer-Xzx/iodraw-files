@@ -144,7 +144,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JSLVsARr7j2FBHAV1jh1-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="JSLVsARr7j2FBHAV1jh1-30" target="JSLVsARr7j2FBHAV1jh1-28">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1301" y="1670" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="JSLVsARr7j2FBHAV1jh1-30" value="样品检测" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1121" y="1640" width="120" height="60" as="geometry" />
