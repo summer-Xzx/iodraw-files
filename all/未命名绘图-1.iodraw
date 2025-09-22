@@ -206,10 +206,16 @@
         <mxCell id="JSLVsARr7j2FBHAV1jh1-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JSLVsARr7j2FBHAV1jh1-52" target="JSLVsARr7j2FBHAV1jh1-55">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="JSLVsARr7j2FBHAV1jh1-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JSLVsARr7j2FBHAV1jh1-52" target="JSLVsARr7j2FBHAV1jh1-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JSLVsARr7j2FBHAV1jh1-52" value="样品签样" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1241" y="2360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JSLVsARr7j2FBHAV1jh1-55" value="首单审批" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="2500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JSLVsARr7j2FBHAV1jh1-57" value="样品签样" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1241" y="2500" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
