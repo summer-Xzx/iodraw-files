@@ -373,8 +373,8 @@
         <mxCell id="JSLVsARr7j2FBHAV1jh1-95" value="卖点讨论会" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1200" y="3810" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JSLVsARr7j2FBHAV1jh1-98" value="认证报告" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1395.87" y="3820" width="88.25" height="60" as="geometry" />
+        <mxCell id="JSLVsARr7j2FBHAV1jh1-98" value="卖点讨论会" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1211.75" y="3880" width="88.25" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
