@@ -108,6 +108,11 @@
         <mxCell id="JSLVsARr7j2FBHAV1jh1-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JSLVsARr7j2FBHAV1jh1-30" target="JSLVsARr7j2FBHAV1jh1-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="JSLVsARr7j2FBHAV1jh1-35" value="OK" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JSLVsARr7j2FBHAV1jh1-34">
+          <mxGeometry x="-0.1536" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="JSLVsARr7j2FBHAV1jh1-30" value="样品检测" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1241" y="1645" width="120" height="60" as="geometry" />
         </mxCell>
