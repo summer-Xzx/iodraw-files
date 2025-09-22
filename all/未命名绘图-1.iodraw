@@ -112,7 +112,8 @@
         <mxCell id="JSLVsARr7j2FBHAV1jh1-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JSLVsARr7j2FBHAV1jh1-30" target="JSLVsARr7j2FBHAV1jh1-33">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1187" y="1675" />
+              <mxPoint x="1180" y="1870" />
+              <mxPoint x="1301" y="1870" />
             </Array>
           </mxGeometry>
         </mxCell>
