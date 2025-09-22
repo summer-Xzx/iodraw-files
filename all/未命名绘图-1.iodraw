@@ -130,6 +130,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="JSLVsARr7j2FBHAV1jh1-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JSLVsARr7j2FBHAV1jh1-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1181" y="2410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="JSLVsARr7j2FBHAV1jh1-30" value="样品检测" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1121" y="1640" width="120" height="60" as="geometry" />
         </mxCell>
@@ -182,7 +187,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JSLVsARr7j2FBHAV1jh1-44" value="项目立项会" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1241" y="2080" width="120" height="60" as="geometry" />
+          <mxGeometry x="1241" y="2070" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="JSLVsARr7j2FBHAV1jh1-46" value="项目立项会" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1241" y="2220" width="120" height="60" as="geometry" />
