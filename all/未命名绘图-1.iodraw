@@ -352,7 +352,7 @@
         <mxCell id="JSLVsARr7j2FBHAV1jh1-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JSLVsARr7j2FBHAV1jh1-87" target="JSLVsARr7j2FBHAV1jh1-95">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1164" y="3860" />
+              <mxPoint x="1164" y="3840" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -364,8 +364,8 @@
         <mxCell id="JSLVsARr7j2FBHAV1jh1-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JSLVsARr7j2FBHAV1jh1-87" target="JSLVsARr7j2FBHAV1jh1-100">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1164" y="3950" />
-              <mxPoint x="1296" y="3950" />
+              <mxPoint x="1164" y="3990" />
+              <mxPoint x="1296" y="3990" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -388,7 +388,7 @@
           <mxGeometry x="1385.87" y="3810" width="88.25" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JSLVsARr7j2FBHAV1jh1-95" value="卖点讨论会" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1251.38" y="3830" width="90" height="60" as="geometry" />
+          <mxGeometry x="1251.38" y="3810" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JSLVsARr7j2FBHAV1jh1-100" value="量产" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1235.5" y="4080" width="120" height="60" as="geometry" />
