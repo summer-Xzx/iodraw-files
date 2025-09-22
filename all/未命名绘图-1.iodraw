@@ -352,11 +352,17 @@
         <mxCell id="JSLVsARr7j2FBHAV1jh1-87" value="核心卖点确定" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1121" y="3670" width="86.25" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="JSLVsARr7j2FBHAV1jh1-94" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JSLVsARr7j2FBHAV1jh1-89" target="JSLVsARr7j2FBHAV1jh1-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JSLVsARr7j2FBHAV1jh1-89" value="产品认证送检" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1385.87" y="3670" width="88.25" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JSLVsARr7j2FBHAV1jh1-91" value="用户体验测试" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1251.3799999999999" y="3670" width="88.25" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JSLVsARr7j2FBHAV1jh1-93" value="认证报告" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1385.87" y="3810" width="88.25" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
