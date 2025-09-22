@@ -150,6 +150,11 @@
         <mxCell id="JSLVsARr7j2FBHAV1jh1-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JSLVsARr7j2FBHAV1jh1-36" target="JSLVsARr7j2FBHAV1jh1-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="JSLVsARr7j2FBHAV1jh1-43" value="终止" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JSLVsARr7j2FBHAV1jh1-42">
+          <mxGeometry x="-0.1361" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="JSLVsARr7j2FBHAV1jh1-36" value="样品打样&lt;div&gt;延期评估&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1370" y="1625" width="120" height="90" as="geometry" />
         </mxCell>
