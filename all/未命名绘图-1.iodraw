@@ -339,7 +339,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1296" y="3620" />
-              <mxPoint x="1421" y="3620" />
+              <mxPoint x="1430" y="3620" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -350,10 +350,10 @@
           <mxGeometry x="1121" y="3670" width="86.25" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JSLVsARr7j2FBHAV1jh1-89" value="用户体验测试" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1380" y="3670" width="88.25" height="60" as="geometry" />
+          <mxGeometry x="1385.87" y="3670" width="88.25" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JSLVsARr7j2FBHAV1jh1-91" value="用户体验测试" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1251.37" y="3670" width="88.25" height="60" as="geometry" />
+          <mxGeometry x="1251.3799999999999" y="3670" width="88.25" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
