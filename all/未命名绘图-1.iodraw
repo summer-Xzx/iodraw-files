@@ -84,8 +84,14 @@
         <mxCell id="JSLVsARr7j2FBHAV1jh1-20" value="产品定义&lt;div&gt;评审&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1246.5" y="930" width="109" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="JSLVsARr7j2FBHAV1jh1-22" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="JSLVsARr7j2FBHAV1jh1-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JSLVsARr7j2FBHAV1jh1-22" target="JSLVsARr7j2FBHAV1jh1-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JSLVsARr7j2FBHAV1jh1-22" value="采购寻源" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1241" y="1085" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JSLVsARr7j2FBHAV1jh1-24" value="采购寻源" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1241" y="1225" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
