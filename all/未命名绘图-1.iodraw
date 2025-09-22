@@ -135,8 +135,11 @@
         <mxCell id="JSLVsARr7j2FBHAV1jh1-33" value="爆品定位" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1126.5" y="1810" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="JSLVsARr7j2FBHAV1jh1-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JSLVsARr7j2FBHAV1jh1-36" target="JSLVsARr7j2FBHAV1jh1-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JSLVsARr7j2FBHAV1jh1-36" value="样品打样&lt;div&gt;延期评估&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1361" y="1640" width="120" height="90" as="geometry" />
+          <mxGeometry x="1370" y="1625" width="120" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
