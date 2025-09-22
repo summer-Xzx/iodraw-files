@@ -42,6 +42,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="JSLVsARr7j2FBHAV1jh1-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JSLVsARr7j2FBHAV1jh1-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1440" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="JSLVsARr7j2FBHAV1jh1-9" value="概念决策&lt;div&gt;会议&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1246.5" y="640" width="109" height="70" as="geometry" />
         </mxCell>
