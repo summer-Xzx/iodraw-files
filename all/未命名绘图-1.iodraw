@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="1CV28WC5FG7gNPXY7gxe">
-    <mxGraphModel dx="797" dy="410" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2390" dy="1230" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -285,6 +285,9 @@
         <mxCell id="JSLVsARr7j2FBHAV1jh1-70" value="包装样品确认" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1120" y="3050" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="JSLVsARr7j2FBHAV1jh1-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JSLVsARr7j2FBHAV1jh1-74" target="JSLVsARr7j2FBHAV1jh1-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JSLVsARr7j2FBHAV1jh1-74" value="通知供应商备料" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1235.5" y="3220" width="120" height="60" as="geometry" />
         </mxCell>
@@ -292,7 +295,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JSLVsARr7j2FBHAV1jh1-76" value="产品信息录入" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1370" y="2640" width="120" height="60" as="geometry" />
+          <mxGeometry x="1370" y="2780" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JSLVsARr7j2FBHAV1jh1-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JSLVsARr7j2FBHAV1jh1-78" target="JSLVsARr7j2FBHAV1jh1-74">
           <mxGeometry relative="1" as="geometry">
@@ -304,6 +307,9 @@
         </mxCell>
         <mxCell id="JSLVsARr7j2FBHAV1jh1-78" value="采购首批下单" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1370" y="3040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JSLVsARr7j2FBHAV1jh1-81" value="通知供应商备料" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1235.5" y="3360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
