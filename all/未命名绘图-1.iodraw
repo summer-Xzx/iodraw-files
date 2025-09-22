@@ -39,8 +39,8 @@
         <mxCell id="JSLVsARr7j2FBHAV1jh1-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JSLVsARr7j2FBHAV1jh1-7" target="JSLVsARr7j2FBHAV1jh1-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1381" y="540" />
-              <mxPoint x="1381" y="120" />
+              <mxPoint x="1420" y="540" />
+              <mxPoint x="1420" y="120" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -72,8 +72,14 @@
         <mxCell id="JSLVsARr7j2FBHAV1jh1-9" value="概念决策&lt;div&gt;会议&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1246.5" y="640" width="109" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="JSLVsARr7j2FBHAV1jh1-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JSLVsARr7j2FBHAV1jh1-13" target="JSLVsARr7j2FBHAV1jh1-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JSLVsARr7j2FBHAV1jh1-13" value="产品定义" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1241" y="795" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JSLVsARr7j2FBHAV1jh1-20" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1261" y="925" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
