@@ -51,9 +51,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JSLVsARr7j2FBHAV1jh1-17" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JSLVsARr7j2FBHAV1jh1-16">
+        <mxCell id="JSLVsARr7j2FBHAV1jh1-17" value="NG" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JSLVsARr7j2FBHAV1jh1-16">
           <mxGeometry x="0.0758" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JSLVsARr7j2FBHAV1jh1-9" value="概念决策&lt;div&gt;会议&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
