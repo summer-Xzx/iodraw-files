@@ -407,7 +407,7 @@
         <mxCell id="JSLVsARr7j2FBHAV1jh1-103" value="Listing设计" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1385.8700000000001" y="3980" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JSLVsARr7j2FBHAV1jh1-105" value="量产" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="JSLVsARr7j2FBHAV1jh1-105" value="验货" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1235.5" y="4220" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
