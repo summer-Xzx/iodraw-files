@@ -266,9 +266,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JSLVsARr7j2FBHAV1jh1-73" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JSLVsARr7j2FBHAV1jh1-72">
+        <mxCell id="JSLVsARr7j2FBHAV1jh1-73" value="NG" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JSLVsARr7j2FBHAV1jh1-72">
           <mxGeometry x="0.1303" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-3" y="15" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JSLVsARr7j2FBHAV1jh1-70" value="包装样品确认" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
