@@ -281,13 +281,21 @@
           <mxGeometry x="1120" y="3050" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JSLVsARr7j2FBHAV1jh1-74" value="通知供应商备料" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="3190" width="120" height="60" as="geometry" />
+          <mxGeometry x="1235.5" y="3220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JSLVsARr7j2FBHAV1jh1-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JSLVsARr7j2FBHAV1jh1-76" target="JSLVsARr7j2FBHAV1jh1-78">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JSLVsARr7j2FBHAV1jh1-76" value="产品信息录入" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1370" y="2640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JSLVsARr7j2FBHAV1jh1-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JSLVsARr7j2FBHAV1jh1-78" target="JSLVsARr7j2FBHAV1jh1-74">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1430" y="3170" />
+              <mxPoint x="1296" y="3170" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="JSLVsARr7j2FBHAV1jh1-78" value="采购首批下单" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1370" y="3040" width="120" height="60" as="geometry" />
