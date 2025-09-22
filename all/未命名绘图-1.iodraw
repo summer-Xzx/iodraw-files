@@ -96,8 +96,14 @@
         <mxCell id="JSLVsARr7j2FBHAV1jh1-24" value="审厂" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1241" y="1225" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JSLVsARr7j2FBHAV1jh1-26" value="审厂" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="JSLVsARr7j2FBHAV1jh1-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JSLVsARr7j2FBHAV1jh1-26" target="JSLVsARr7j2FBHAV1jh1-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JSLVsARr7j2FBHAV1jh1-26" value="技术评审" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1241" y="1365" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JSLVsARr7j2FBHAV1jh1-28" value="技术评审" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1241" y="1505" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
