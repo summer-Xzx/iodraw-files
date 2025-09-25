@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="60z5xTqidQL4nnTp02uW">
-    <mxGraphModel dx="4014" dy="2809" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4924" dy="3278" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -955,6 +955,11 @@
         <mxCell id="VHO9OGxE__veVKwZT7KB-185" value="大货样（试产样）" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3153" y="4500" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="TcqZh6fA-S5Ge_-jqZbu-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="VHO9OGxE__veVKwZT7KB-187">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3600" y="2030.000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="VHO9OGxE__veVKwZT7KB-187" value="工厂需要先确认第二版样品后启动配色样" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3500" y="2230" width="120" height="60" as="geometry" />
         </mxCell>
@@ -978,7 +983,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TcqZh6fA-S5Ge_-jqZbu-1" value="工厂需要先确认第二版样品后启动配色样" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="4200" y="1520" width="120" height="60" as="geometry" />
+          <mxGeometry x="4190" y="1510" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
