@@ -955,6 +955,9 @@
         <mxCell id="VHO9OGxE__veVKwZT7KB-185" value="大货样（试产样）" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3153" y="4500" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="TcqZh6fA-S5Ge_-jqZbu-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VHO9OGxE__veVKwZT7KB-187" target="TcqZh6fA-S5Ge_-jqZbu-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="VHO9OGxE__veVKwZT7KB-187" value="产品上新表" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3460" y="3140" width="120" height="60" as="geometry" />
         </mxCell>
@@ -985,6 +988,9 @@
         </mxCell>
         <mxCell id="TcqZh6fA-S5Ge_-jqZbu-3" value="签样存板" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="3460" y="2940" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="TcqZh6fA-S5Ge_-jqZbu-5" value="产品上新表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3460" y="3280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
