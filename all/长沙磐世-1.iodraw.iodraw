@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="60z5xTqidQL4nnTp02uW">
-    <mxGraphModel dx="4924" dy="3278" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="6563" dy="4121" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -823,7 +823,7 @@
         <mxCell id="VHO9OGxE__veVKwZT7KB-146" value="确认样" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3033" y="2810" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7kpYNWOS6Y2cklVHciH1-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VHO9OGxE__veVKwZT7KB-148" target="VHO9OGxE__veVKwZT7KB-155">
+        <mxCell id="7kpYNWOS6Y2cklVHciH1-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="VHO9OGxE__veVKwZT7KB-148" target="VHO9OGxE__veVKwZT7KB-155" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2963" y="3080" />
@@ -831,7 +831,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7kpYNWOS6Y2cklVHciH1-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VHO9OGxE__veVKwZT7KB-148" target="VHO9OGxE__veVKwZT7KB-156">
+        <mxCell id="7kpYNWOS6Y2cklVHciH1-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="VHO9OGxE__veVKwZT7KB-148" target="VHO9OGxE__veVKwZT7KB-156" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2963" y="3080" />
@@ -842,7 +842,7 @@
         <mxCell id="VHO9OGxE__veVKwZT7KB-148" value="签样存板" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="2903" y="2960" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="7kpYNWOS6Y2cklVHciH1-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VHO9OGxE__veVKwZT7KB-151" target="VHO9OGxE__veVKwZT7KB-158">
+        <mxCell id="7kpYNWOS6Y2cklVHciH1-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="VHO9OGxE__veVKwZT7KB-151" target="VHO9OGxE__veVKwZT7KB-158" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VHO9OGxE__veVKwZT7KB-151" value="新品下单" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -857,7 +857,7 @@
         <mxCell id="VHO9OGxE__veVKwZT7KB-155" value="供应链核价" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2783" y="3130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7kpYNWOS6Y2cklVHciH1-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VHO9OGxE__veVKwZT7KB-156" target="VHO9OGxE__veVKwZT7KB-151">
+        <mxCell id="7kpYNWOS6Y2cklVHciH1-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="VHO9OGxE__veVKwZT7KB-156" target="VHO9OGxE__veVKwZT7KB-151" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="3093" y="3230" />
@@ -969,7 +969,7 @@
         <mxCell id="VHO9OGxE__veVKwZT7KB-189" value="需要产研，技术，工厂三方评估。" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3273" y="1340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7kpYNWOS6Y2cklVHciH1-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VHO9OGxE__veVKwZT7KB-155" target="VHO9OGxE__veVKwZT7KB-151">
+        <mxCell id="7kpYNWOS6Y2cklVHciH1-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="VHO9OGxE__veVKwZT7KB-155" target="VHO9OGxE__veVKwZT7KB-151" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2843" y="3230" />
