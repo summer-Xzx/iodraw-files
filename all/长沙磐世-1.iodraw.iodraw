@@ -1008,7 +1008,7 @@
           <mxGeometry x="3580" y="3580" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TcqZh6fA-S5Ge_-jqZbu-11" value="新供应商引入机制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3370" y="3580" width="120" height="60" as="geometry" />
+          <mxGeometry x="3290" y="3155" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TcqZh6fA-S5Ge_-jqZbu-12" value="采购订单审批审核" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3580" y="3720" width="120" height="60" as="geometry" />
