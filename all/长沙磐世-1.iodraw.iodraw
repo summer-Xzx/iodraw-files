@@ -1052,7 +1052,7 @@
         <mxCell id="TcqZh6fA-S5Ge_-jqZbu-25" value="采购跟进供应商交付情况" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3670" y="4160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TcqZh6fA-S5Ge_-jqZbu-27" value="采购下单流程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TcqZh6fA-S5Ge_-jqZbu-27" value="采购内部流程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3870" y="3740" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
