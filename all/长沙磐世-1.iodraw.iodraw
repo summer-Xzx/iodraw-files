@@ -1055,6 +1055,9 @@
         <mxCell id="TcqZh6fA-S5Ge_-jqZbu-27" value="采购内部流程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3870" y="3740" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="TcqZh6fA-S5Ge_-jqZbu-29" value="采购单价审核" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3600" y="3600" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
