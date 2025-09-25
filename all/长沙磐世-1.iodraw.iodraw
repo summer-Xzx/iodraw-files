@@ -1020,7 +1020,7 @@
           <mxGeometry x="3550" y="3710" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TcqZh6fA-S5Ge_-jqZbu-16" value="新供应商导入审批" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3360" y="3540" width="120" height="60" as="geometry" />
+          <mxGeometry x="3360" y="3350" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
