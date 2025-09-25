@@ -980,6 +980,9 @@
         <mxCell id="TcqZh6fA-S5Ge_-jqZbu-1" value="工厂需要先确认第二版样品后启动配色样" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4190" y="1510" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="TcqZh6fA-S5Ge_-jqZbu-3" value="签样存板" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="3460" y="2940" width="120" height="90" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
