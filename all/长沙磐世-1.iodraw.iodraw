@@ -959,7 +959,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VHO9OGxE__veVKwZT7KB-187" value="产品上新表" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="3460" y="3140" width="120" height="60" as="geometry" />
+          <mxGeometry x="3550" y="3140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VHO9OGxE__veVKwZT7KB-191" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="VHO9OGxE__veVKwZT7KB-189" target="VHO9OGxE__veVKwZT7KB-112" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -993,25 +993,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TcqZh6fA-S5Ge_-jqZbu-5" value="产品G+资料新建" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3460" y="3280" width="120" height="60" as="geometry" />
+          <mxGeometry x="3550" y="3280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TcqZh6fA-S5Ge_-jqZbu-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TcqZh6fA-S5Ge_-jqZbu-7" target="TcqZh6fA-S5Ge_-jqZbu-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TcqZh6fA-S5Ge_-jqZbu-7" value="企微首单审批" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3460" y="3420" width="120" height="60" as="geometry" />
+          <mxGeometry x="3550" y="3420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TcqZh6fA-S5Ge_-jqZbu-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TcqZh6fA-S5Ge_-jqZbu-9" target="TcqZh6fA-S5Ge_-jqZbu-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TcqZh6fA-S5Ge_-jqZbu-9" value="采购单价审核" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3460" y="3570" width="120" height="60" as="geometry" />
+          <mxGeometry x="3550" y="3570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TcqZh6fA-S5Ge_-jqZbu-11" value="新供应商引入机制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3284" y="3140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TcqZh6fA-S5Ge_-jqZbu-12" value="采购订单审批审核" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3460" y="3710" width="120" height="60" as="geometry" />
+          <mxGeometry x="3550" y="3710" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
