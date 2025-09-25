@@ -1001,11 +1001,17 @@
         <mxCell id="TcqZh6fA-S5Ge_-jqZbu-7" value="企微首单审批" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3460" y="3420" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="TcqZh6fA-S5Ge_-jqZbu-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TcqZh6fA-S5Ge_-jqZbu-9" target="TcqZh6fA-S5Ge_-jqZbu-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TcqZh6fA-S5Ge_-jqZbu-9" value="采购单价审核" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3580" y="3580" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TcqZh6fA-S5Ge_-jqZbu-11" value="新供应商引入机制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3370" y="3580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TcqZh6fA-S5Ge_-jqZbu-12" value="采购订单审批审核" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3580" y="3720" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
