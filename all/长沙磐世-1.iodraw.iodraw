@@ -1025,6 +1025,9 @@
         <mxCell id="TcqZh6fA-S5Ge_-jqZbu-16" value="新供应商导入审批" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3360" y="3350" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="TcqZh6fA-S5Ge_-jqZbu-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TcqZh6fA-S5Ge_-jqZbu-18" target="TcqZh6fA-S5Ge_-jqZbu-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TcqZh6fA-S5Ge_-jqZbu-18" value="采购商务合同" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3360" y="3570" width="120" height="60" as="geometry" />
         </mxCell>
