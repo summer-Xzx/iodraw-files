@@ -1040,7 +1040,7 @@
         <mxCell id="TcqZh6fA-S5Ge_-jqZbu-21" value="邮件发送订单给供应商" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3460" y="3870" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TcqZh6fA-S5Ge_-jqZbu-23" value="邮件发送订单给供应商" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TcqZh6fA-S5Ge_-jqZbu-23" value="采购回复交期（反馈运营，项目）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3460" y="4010" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
