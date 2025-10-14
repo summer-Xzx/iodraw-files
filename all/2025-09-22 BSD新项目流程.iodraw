@@ -200,9 +200,6 @@
         <mxCell id="JSLVsARr7j2FBHAV1jh1-44" value="项目立项会" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="1241" y="2070" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="JSLVsARr7j2FBHAV1jh1-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JSLVsARr7j2FBHAV1jh1-46" target="JSLVsARr7j2FBHAV1jh1-52" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="JSLVsARr7j2FBHAV1jh1-46" value="产能风险评估" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="1241" y="2220" width="120" height="60" as="geometry" />
         </mxCell>
@@ -223,7 +220,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JSLVsARr7j2FBHAV1jh1-52" value="样品签样" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="1241" y="2360" width="120" height="60" as="geometry" />
+          <mxGeometry x="1251.38" y="2360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JSLVsARr7j2FBHAV1jh1-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JSLVsARr7j2FBHAV1jh1-55" target="JSLVsARr7j2FBHAV1jh1-76" edge="1">
           <mxGeometry relative="1" as="geometry" />
