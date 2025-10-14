@@ -207,6 +207,9 @@
         <mxCell id="JSLVsARr7j2FBHAV1jh1-46" value="产能风险评估" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="1241" y="2220" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="_9M383raUbA-ufXct80E-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JSLVsARr7j2FBHAV1jh1-52" target="JSLVsARr7j2FBHAV1jh1-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JSLVsARr7j2FBHAV1jh1-52" value="样品签样" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="1120" y="3960" width="120" height="60" as="geometry" />
         </mxCell>
@@ -352,13 +355,8 @@
             <mxPoint x="-5" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_9M383raUbA-ufXct80E-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.339;entryY=-0.067;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JSLVsARr7j2FBHAV1jh1-87" target="JSLVsARr7j2FBHAV1jh1-52">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1164" y="3960" />
-              <mxPoint x="1161" y="3960" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="_9M383raUbA-ufXct80E-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JSLVsARr7j2FBHAV1jh1-87" target="JSLVsARr7j2FBHAV1jh1-52">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JSLVsARr7j2FBHAV1jh1-87" value="核心卖点确定" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="1121" y="3670" width="86.25" height="60" as="geometry" />
