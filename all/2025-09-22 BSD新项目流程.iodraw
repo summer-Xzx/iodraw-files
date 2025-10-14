@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="1CV28WC5FG7gNPXY7gxe">
-    <mxGraphModel dx="4044" dy="1230" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2801" dy="590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,19 +11,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JSLVsARr7j2FBHAV1jh1-2" value="产品概念" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1220" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="1241" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JSLVsARr7j2FBHAV1jh1-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JSLVsARr7j2FBHAV1jh1-3" target="JSLVsARr7j2FBHAV1jh1-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JSLVsARr7j2FBHAV1jh1-3" value="资源收集" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1220" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="1241" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JSLVsARr7j2FBHAV1jh1-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JSLVsARr7j2FBHAV1jh1-5" target="JSLVsARr7j2FBHAV1jh1-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JSLVsARr7j2FBHAV1jh1-5" value="专利收集，&lt;span style=&quot;background-color: initial;&quot;&gt;检索&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1220" y="510" width="120" height="60" as="geometry" />
+          <mxGeometry x="1241" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JSLVsARr7j2FBHAV1jh1-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JSLVsARr7j2FBHAV1jh1-7" target="JSLVsARr7j2FBHAV1jh1-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -36,13 +36,13 @@
         <mxCell id="JSLVsARr7j2FBHAV1jh1-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="JSLVsARr7j2FBHAV1jh1-7" target="JSLVsARr7j2FBHAV1jh1-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1399" y="680" />
-              <mxPoint x="1399" y="260" />
+              <mxPoint x="1420" y="680" />
+              <mxPoint x="1420" y="260" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="JSLVsARr7j2FBHAV1jh1-7" value="财务测算" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1220" y="650" width="120" height="60" as="geometry" />
+          <mxGeometry x="1241" y="650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JSLVsARr7j2FBHAV1jh1-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JSLVsARr7j2FBHAV1jh1-9" target="JSLVsARr7j2FBHAV1jh1-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -54,10 +54,10 @@
         </mxCell>
         <mxCell id="JSLVsARr7j2FBHAV1jh1-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="JSLVsARr7j2FBHAV1jh1-9" target="JSLVsARr7j2FBHAV1jh1-2" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1419" y="280" as="targetPoint" />
+            <mxPoint x="1440" y="280" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1399" y="815" />
-              <mxPoint x="1399" y="260" />
+              <mxPoint x="1420" y="815" />
+              <mxPoint x="1420" y="260" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -67,28 +67,28 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JSLVsARr7j2FBHAV1jh1-9" value="概念决策&lt;div&gt;会议&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="1225.5" y="780" width="109" height="70" as="geometry" />
+          <mxGeometry x="1246.5" y="780" width="109" height="70" as="geometry" />
         </mxCell>
         <mxCell id="JSLVsARr7j2FBHAV1jh1-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JSLVsARr7j2FBHAV1jh1-13" target="JSLVsARr7j2FBHAV1jh1-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JSLVsARr7j2FBHAV1jh1-13" value="产品定义" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="1220" y="935" width="120" height="60" as="geometry" />
+          <mxGeometry x="1241" y="935" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JSLVsARr7j2FBHAV1jh1-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JSLVsARr7j2FBHAV1jh1-20" target="JSLVsARr7j2FBHAV1jh1-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JSLVsARr7j2FBHAV1jh1-20" value="产品定义&lt;div&gt;评审&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="1225.5" y="1070" width="109" height="70" as="geometry" />
+          <mxGeometry x="1246.5" y="1070" width="109" height="70" as="geometry" />
         </mxCell>
         <mxCell id="JSLVsARr7j2FBHAV1jh1-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JSLVsARr7j2FBHAV1jh1-22" target="JSLVsARr7j2FBHAV1jh1-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JSLVsARr7j2FBHAV1jh1-22" value="采购寻源" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="1220" y="1225" width="120" height="60" as="geometry" />
+          <mxGeometry x="1241" y="1225" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JSLVsARr7j2FBHAV1jh1-24" value="审厂" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="1220" y="1365" width="120" height="60" as="geometry" />
+          <mxGeometry x="1241" y="1365" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JSLVsARr7j2FBHAV1jh1-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="JSLVsARr7j2FBHAV1jh1-28" edge="1">
           <mxGeometry relative="1" as="geometry">
