@@ -1186,10 +1186,10 @@
           <mxGeometry x="6114" y="1318" width="120" height="150" as="geometry" />
         </mxCell>
         <mxCell id="OVms_cX5vl7Okz3RIu64-51" value="准确产品&lt;div&gt;画像输出&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="5983" y="1960" width="120" height="60" as="geometry" />
+          <mxGeometry x="5983" y="1990" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OVms_cX5vl7Okz3RIu64-53" value="最终生产&lt;div&gt;供应商分配&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="5743" y="1960" width="120" height="60" as="geometry" />
+          <mxGeometry x="5743" y="1990" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OVms_cX5vl7Okz3RIu64-58" value="二次初版样" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="5733" y="2240" width="120" height="60" as="geometry" />
@@ -1206,8 +1206,8 @@
         <mxCell id="OVms_cX5vl7Okz3RIu64-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OVms_cX5vl7Okz3RIu64-62" target="OVms_cX5vl7Okz3RIu64-51">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="5913" y="1920" />
-              <mxPoint x="6043" y="1920" />
+              <mxPoint x="5913" y="1940" />
+              <mxPoint x="6043" y="1940" />
             </Array>
           </mxGeometry>
         </mxCell>
