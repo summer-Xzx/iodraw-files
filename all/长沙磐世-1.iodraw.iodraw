@@ -1167,6 +1167,9 @@
         <mxCell id="OVms_cX5vl7Okz3RIu64-42" value="初版样品" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="5853" y="1530" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="OVms_cX5vl7Okz3RIu64-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OVms_cX5vl7Okz3RIu64-44" target="OVms_cX5vl7Okz3RIu64-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OVms_cX5vl7Okz3RIu64-44" value="初步成本" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="5853" y="1650" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1196,6 +1199,17 @@
         </mxCell>
         <mxCell id="OVms_cX5vl7Okz3RIu64-60" value="配色样" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="5980" y="2370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OVms_cX5vl7Okz3RIu64-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OVms_cX5vl7Okz3RIu64-62" target="OVms_cX5vl7Okz3RIu64-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OVms_cX5vl7Okz3RIu64-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OVms_cX5vl7Okz3RIu64-62" target="OVms_cX5vl7Okz3RIu64-51">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5913" y="1920" />
+              <mxPoint x="6043" y="1920" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="OVms_cX5vl7Okz3RIu64-62" value="技术评估及调整" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="5853" y="1800" width="120" height="90" as="geometry" />
