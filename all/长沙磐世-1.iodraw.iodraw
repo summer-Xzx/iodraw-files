@@ -1191,6 +1191,17 @@
         <mxCell id="OVms_cX5vl7Okz3RIu64-51" value="准确产品&lt;div&gt;画像输出&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="5853" y="1980" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="OVms_cX5vl7Okz3RIu64-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OVms_cX5vl7Okz3RIu64-53" target="OVms_cX5vl7Okz3RIu64-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OVms_cX5vl7Okz3RIu64-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OVms_cX5vl7Okz3RIu64-53" target="OVms_cX5vl7Okz3RIu64-60">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5913" y="2280" />
+              <mxPoint x="6043" y="2280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="OVms_cX5vl7Okz3RIu64-53" value="最终生产&lt;div&gt;供应商分配&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="5853" y="2130" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1215,7 +1226,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OVms_cX5vl7Okz3RIu64-67" value="&lt;b&gt;Fitting样&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="5733" y="2270" width="120" height="60" as="geometry" />
+          <mxGeometry x="5733" y="2370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OVms_cX5vl7Okz3RIu64-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OVms_cX5vl7Okz3RIu64-69" target="OVms_cX5vl7Okz3RIu64-72">
           <mxGeometry relative="1" as="geometry">
