@@ -1073,47 +1073,47 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OVms_cX5vl7Okz3RIu64-9" value="市场调研" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="5853" y="700" width="120" height="60" as="geometry" />
+          <mxGeometry x="5853" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OVms_cX5vl7Okz3RIu64-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OVms_cX5vl7Okz3RIu64-11" target="OVms_cX5vl7Okz3RIu64-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OVms_cX5vl7Okz3RIu64-11" value="产品企划" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="5853" y="1050" width="120" height="60" as="geometry" />
+          <mxGeometry x="5853" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OVms_cX5vl7Okz3RIu64-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OVms_cX5vl7Okz3RIu64-13" target="OVms_cX5vl7Okz3RIu64-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OVms_cX5vl7Okz3RIu64-13" value="年度规划" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="5853" y="530" width="120" height="60" as="geometry" />
+          <mxGeometry x="5853" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OVms_cX5vl7Okz3RIu64-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OVms_cX5vl7Okz3RIu64-15" target="OVms_cX5vl7Okz3RIu64-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="5740" y="970" />
-              <mxPoint x="5913" y="970" />
+              <mxPoint x="5740" y="560" />
+              <mxPoint x="5913" y="560" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="OVms_cX5vl7Okz3RIu64-15" value="设计输出&lt;div&gt;流行趋势&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="5680" y="840" width="120" height="60" as="geometry" />
+          <mxGeometry x="5680" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OVms_cX5vl7Okz3RIu64-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OVms_cX5vl7Okz3RIu64-17" target="OVms_cX5vl7Okz3RIu64-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OVms_cX5vl7Okz3RIu64-17" value="线上市场调研" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="5853" y="840" width="120" height="60" as="geometry" />
+          <mxGeometry x="5853" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OVms_cX5vl7Okz3RIu64-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OVms_cX5vl7Okz3RIu64-19" target="OVms_cX5vl7Okz3RIu64-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="6093" y="970" />
-              <mxPoint x="5913" y="970" />
+              <mxPoint x="6093" y="560" />
+              <mxPoint x="5913" y="560" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="OVms_cX5vl7Okz3RIu64-19" value="线下工厂市场调研" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="6033" y="840" width="120" height="60" as="geometry" />
+          <mxGeometry x="6033" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OVms_cX5vl7Okz3RIu64-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OVms_cX5vl7Okz3RIu64-21" target="OVms_cX5vl7Okz3RIu64-48">
           <mxGeometry relative="1" as="geometry">
@@ -1121,7 +1121,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OVms_cX5vl7Okz3RIu64-21" value="产品一审会议" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="5853" y="1180" width="120" height="90" as="geometry" />
+          <mxGeometry x="5853" y="770" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="OVms_cX5vl7Okz3RIu64-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="OVms_cX5vl7Okz3RIu64-29" target="OVms_cX5vl7Okz3RIu64-31">
           <mxGeometry relative="1" as="geometry" />
