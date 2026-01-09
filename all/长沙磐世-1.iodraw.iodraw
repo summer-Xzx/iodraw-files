@@ -26,7 +26,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ag8qBBVb529yXHRD2uFy-6" value="配色样" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="-130" y="510" width="120" height="60" as="geometry" />
+          <mxGeometry x="-300" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ag8qBBVb529yXHRD2uFy-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ag8qBBVb529yXHRD2uFy-8" target="ag8qBBVb529yXHRD2uFy-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
