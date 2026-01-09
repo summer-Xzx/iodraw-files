@@ -991,9 +991,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="TcqZh6fA-S5Ge_-jqZbu-1" value="工厂需要先确认第二版样品后启动配色样" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="4190" y="1510" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="TcqZh6fA-S5Ge_-jqZbu-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="TcqZh6fA-S5Ge_-jqZbu-3" target="VHO9OGxE__veVKwZT7KB-187" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -1125,9 +1122,6 @@
         </mxCell>
         <mxCell id="OVms_cX5vl7Okz3RIu64-21" value="产品一审会议" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="5853" y="1180" width="120" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="OVms_cX5vl7Okz3RIu64-27" value="供应商分配" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="4962" y="1375" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OVms_cX5vl7Okz3RIu64-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="OVms_cX5vl7Okz3RIu64-29" target="OVms_cX5vl7Okz3RIu64-31">
           <mxGeometry relative="1" as="geometry" />
