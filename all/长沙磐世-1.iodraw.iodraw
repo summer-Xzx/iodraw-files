@@ -1132,19 +1132,8 @@
             <mxPoint x="2" y="70" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OVms_cX5vl7Okz3RIu64-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="OVms_cX5vl7Okz3RIu64-25" target="OVms_cX5vl7Okz3RIu64-29">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="OVms_cX5vl7Okz3RIu64-25" value="结论：是否启动打初版样品" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="5873" y="700" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="OVms_cX5vl7Okz3RIu64-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="OVms_cX5vl7Okz3RIu64-27" target="OVms_cX5vl7Okz3RIu64-40">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="5773" y="1190" />
-              <mxPoint x="5923" y="1190" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="OVms_cX5vl7Okz3RIu64-27" value="供应商分配" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="5713" y="970" width="120" height="80" as="geometry" />
@@ -1170,9 +1159,6 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OVms_cX5vl7Okz3RIu64-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="OVms_cX5vl7Okz3RIu64-35" target="OVms_cX5vl7Okz3RIu64-37">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="OVms_cX5vl7Okz3RIu64-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="OVms_cX5vl7Okz3RIu64-35" target="OVms_cX5vl7Okz3RIu64-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OVms_cX5vl7Okz3RIu64-35" value="第一轮风险评估&lt;div&gt;&lt;b&gt;产品牵头&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
