@@ -1192,7 +1192,7 @@
           <mxGeometry x="5743" y="1990" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OVms_cX5vl7Okz3RIu64-58" value="二次初版样" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="5733" y="2240" width="120" height="60" as="geometry" />
+          <mxGeometry x="5860" y="2130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OVms_cX5vl7Okz3RIu64-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OVms_cX5vl7Okz3RIu64-60" target="OVms_cX5vl7Okz3RIu64-69">
           <mxGeometry relative="1" as="geometry" />
