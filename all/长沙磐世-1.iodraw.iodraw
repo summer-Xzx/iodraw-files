@@ -26,13 +26,10 @@
           <mxGeometry x="-300" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ag8qBBVb529yXHRD2uFy-8" value="下单给工厂" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="-70" y="660" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ag8qBBVb529yXHRD2uFy-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ag8qBBVb529yXHRD2uFy-10" target="ag8qBBVb529yXHRD2uFy-12" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="230" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ag8qBBVb529yXHRD2uFy-10" value="fitting样" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="-130" y="790" width="120" height="60" as="geometry" />
+          <mxGeometry x="20" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ag8qBBVb529yXHRD2uFy-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ag8qBBVb529yXHRD2uFy-12" target="ag8qBBVb529yXHRD2uFy-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
