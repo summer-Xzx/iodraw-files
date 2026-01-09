@@ -1185,6 +1185,9 @@
         <mxCell id="OVms_cX5vl7Okz3RIu64-49" value="产品市场分析&lt;div&gt;运营推广计划&lt;/div&gt;&lt;div&gt;运营下单计划&lt;/div&gt;&lt;div&gt;运营要求上市时间&lt;/div&gt;&lt;div&gt;&lt;b&gt;品质VOC分析&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="6114" y="1318" width="120" height="150" as="geometry" />
         </mxCell>
+        <mxCell id="OVms_cX5vl7Okz3RIu64-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OVms_cX5vl7Okz3RIu64-51" target="OVms_cX5vl7Okz3RIu64-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OVms_cX5vl7Okz3RIu64-51" value="准确产品&lt;div&gt;画像输出&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="5853" y="2000" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1197,13 +1200,8 @@
         <mxCell id="OVms_cX5vl7Okz3RIu64-60" value="配色样" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="5980" y="2210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OVms_cX5vl7Okz3RIu64-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OVms_cX5vl7Okz3RIu64-62" target="OVms_cX5vl7Okz3RIu64-51">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="5913" y="1940" />
-              <mxPoint x="6043" y="1940" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="OVms_cX5vl7Okz3RIu64-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OVms_cX5vl7Okz3RIu64-62" target="OVms_cX5vl7Okz3RIu64-51">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OVms_cX5vl7Okz3RIu64-62" value="技术评估及调整" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="5853" y="1800" width="120" height="90" as="geometry" />
