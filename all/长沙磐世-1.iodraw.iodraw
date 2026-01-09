@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="60z5xTqidQL4nnTp02uW">
-    <mxGraphModel dx="3033" dy="2357" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4014" dy="2885" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1076,55 +1076,55 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OVms_cX5vl7Okz3RIu64-9" value="市场调研" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="5853" y="780" width="120" height="60" as="geometry" />
+          <mxGeometry x="5853" y="700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OVms_cX5vl7Okz3RIu64-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OVms_cX5vl7Okz3RIu64-11" target="OVms_cX5vl7Okz3RIu64-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OVms_cX5vl7Okz3RIu64-11" value="产品企划" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="5853" y="1130" width="120" height="60" as="geometry" />
+          <mxGeometry x="5853" y="1050" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OVms_cX5vl7Okz3RIu64-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OVms_cX5vl7Okz3RIu64-13" target="OVms_cX5vl7Okz3RIu64-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OVms_cX5vl7Okz3RIu64-13" value="年度规划" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="5853" y="610" width="120" height="60" as="geometry" />
+          <mxGeometry x="5853" y="530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OVms_cX5vl7Okz3RIu64-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OVms_cX5vl7Okz3RIu64-15" target="OVms_cX5vl7Okz3RIu64-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="5740" y="1050" />
-              <mxPoint x="5913" y="1050" />
+              <mxPoint x="5740" y="970" />
+              <mxPoint x="5913" y="970" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="OVms_cX5vl7Okz3RIu64-15" value="设计输出&lt;div&gt;流行趋势&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="5680" y="920" width="120" height="60" as="geometry" />
+          <mxGeometry x="5680" y="840" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OVms_cX5vl7Okz3RIu64-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OVms_cX5vl7Okz3RIu64-17" target="OVms_cX5vl7Okz3RIu64-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OVms_cX5vl7Okz3RIu64-17" value="线上市场调研" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="5853" y="920" width="120" height="60" as="geometry" />
+          <mxGeometry x="5853" y="840" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OVms_cX5vl7Okz3RIu64-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OVms_cX5vl7Okz3RIu64-19" target="OVms_cX5vl7Okz3RIu64-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="6093" y="1050" />
-              <mxPoint x="5913" y="1050" />
+              <mxPoint x="6093" y="970" />
+              <mxPoint x="5913" y="970" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="OVms_cX5vl7Okz3RIu64-19" value="线下工厂市场调研" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="6033" y="920" width="120" height="60" as="geometry" />
+          <mxGeometry x="6033" y="840" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OVms_cX5vl7Okz3RIu64-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OVms_cX5vl7Okz3RIu64-21" target="OVms_cX5vl7Okz3RIu64-48">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="5913" y="1430" as="targetPoint" />
+            <mxPoint x="5913" y="1350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OVms_cX5vl7Okz3RIu64-21" value="产品一审会议" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="5853" y="1260" width="120" height="90" as="geometry" />
+          <mxGeometry x="5853" y="1180" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="OVms_cX5vl7Okz3RIu64-27" value="供应商分配" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4962" y="1375" width="120" height="80" as="geometry" />
@@ -1179,27 +1179,11 @@
         <mxCell id="OVms_cX5vl7Okz3RIu64-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="OVms_cX5vl7Okz3RIu64-48" target="OVms_cX5vl7Okz3RIu64-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OVms_cX5vl7Okz3RIu64-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="OVms_cX5vl7Okz3RIu64-48" target="OVms_cX5vl7Okz3RIu64-53">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="5913" y="1820" />
-              <mxPoint x="5803" y="1820" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="OVms_cX5vl7Okz3RIu64-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="OVms_cX5vl7Okz3RIu64-48" target="OVms_cX5vl7Okz3RIu64-51">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="5913" y="1820" />
-              <mxPoint x="6043" y="1820" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="OVms_cX5vl7Okz3RIu64-48" value="产品二审会议" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="5853" y="1430" width="120" height="86" as="geometry" />
+          <mxGeometry x="5853" y="1350" width="120" height="86" as="geometry" />
         </mxCell>
         <mxCell id="OVms_cX5vl7Okz3RIu64-49" value="产品市场分析&lt;div&gt;运营推广计划&lt;/div&gt;&lt;div&gt;运营下单计划&lt;/div&gt;&lt;div&gt;运营要求上市时间&lt;/div&gt;&lt;div&gt;&lt;b&gt;品质VOC分析&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="6114" y="1398" width="120" height="150" as="geometry" />
+          <mxGeometry x="6114" y="1318" width="120" height="150" as="geometry" />
         </mxCell>
         <mxCell id="OVms_cX5vl7Okz3RIu64-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="OVms_cX5vl7Okz3RIu64-51" target="OVms_cX5vl7Okz3RIu64-56">
           <mxGeometry relative="1" as="geometry">
