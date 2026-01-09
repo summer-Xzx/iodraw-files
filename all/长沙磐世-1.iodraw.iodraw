@@ -1197,9 +1197,6 @@
         <mxCell id="OVms_cX5vl7Okz3RIu64-60" value="配色样" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="5980" y="2210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OVms_cX5vl7Okz3RIu64-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OVms_cX5vl7Okz3RIu64-62" target="OVms_cX5vl7Okz3RIu64-53">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="OVms_cX5vl7Okz3RIu64-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OVms_cX5vl7Okz3RIu64-62" target="OVms_cX5vl7Okz3RIu64-51">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
