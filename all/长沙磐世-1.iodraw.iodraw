@@ -1199,44 +1199,14 @@
         <mxCell id="OVms_cX5vl7Okz3RIu64-53" value="最终生产&lt;div&gt;供应商分配&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="5743" y="1890" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OVms_cX5vl7Okz3RIu64-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="OVms_cX5vl7Okz3RIu64-58" target="OVms_cX5vl7Okz3RIu64-62">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="5793" y="2350" />
-              <mxPoint x="5913" y="2350" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="OVms_cX5vl7Okz3RIu64-58" value="二次初版样" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="5733" y="2240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OVms_cX5vl7Okz3RIu64-60" value="配色样" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="5983" y="2240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OVms_cX5vl7Okz3RIu64-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="OVms_cX5vl7Okz3RIu64-62" target="OVms_cX5vl7Okz3RIu64-65">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="OVms_cX5vl7Okz3RIu64-62" value="技术评估及调整" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="5853" y="2410" width="120" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="OVms_cX5vl7Okz3RIu64-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OVms_cX5vl7Okz3RIu64-65" target="OVms_cX5vl7Okz3RIu64-69">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="5913" y="2700" />
-              <mxPoint x="6043" y="2700" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="OVms_cX5vl7Okz3RIu64-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OVms_cX5vl7Okz3RIu64-65" target="OVms_cX5vl7Okz3RIu64-67">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="5913" y="2700" />
-              <mxPoint x="5793" y="2700" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="OVms_cX5vl7Okz3RIu64-65" value="打样第三阶段" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="5853" y="2595" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OVms_cX5vl7Okz3RIu64-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OVms_cX5vl7Okz3RIu64-67" target="OVms_cX5vl7Okz3RIu64-72">
           <mxGeometry relative="1" as="geometry">
@@ -1247,7 +1217,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OVms_cX5vl7Okz3RIu64-67" value="&lt;b&gt;Fitting样&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="5733" y="2750" width="120" height="60" as="geometry" />
+          <mxGeometry x="5733" y="2640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OVms_cX5vl7Okz3RIu64-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OVms_cX5vl7Okz3RIu64-69" target="OVms_cX5vl7Okz3RIu64-72">
           <mxGeometry relative="1" as="geometry">
