@@ -1193,7 +1193,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-HzTg4goH_dwjqOKglr7-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OVms_cX5vl7Okz3RIu64-48" target="OVms_cX5vl7Okz3RIu64-11">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5790" y="1543" />
+              <mxPoint x="5790" y="761" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="OVms_cX5vl7Okz3RIu64-48" value="产品二审会议" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="5853" y="1500" width="120" height="86" as="geometry" />
