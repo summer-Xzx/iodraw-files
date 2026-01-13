@@ -1204,7 +1204,7 @@
           <mxGeometry x="5853" y="1500" width="120" height="86" as="geometry" />
         </mxCell>
         <mxCell id="OVms_cX5vl7Okz3RIu64-49" value="产品市场分析&lt;div&gt;运营推广计划&lt;/div&gt;&lt;div&gt;运营下单计划&lt;/div&gt;&lt;div&gt;运营要求上市时间&lt;/div&gt;&lt;div&gt;&lt;b&gt;品质VOC分析&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="5640" y="1468" width="120" height="150" as="geometry" />
+          <mxGeometry x="5613" y="1510" width="120" height="150" as="geometry" />
         </mxCell>
         <mxCell id="OVms_cX5vl7Okz3RIu64-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OVms_cX5vl7Okz3RIu64-51" target="OVms_cX5vl7Okz3RIu64-53" edge="1">
           <mxGeometry relative="1" as="geometry" />
