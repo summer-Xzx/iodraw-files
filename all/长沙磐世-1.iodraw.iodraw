@@ -1123,6 +1123,9 @@
         <mxCell id="OVms_cX5vl7Okz3RIu64-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="OVms_cX5vl7Okz3RIu64-21" target="OVms_cX5vl7Okz3RIu64-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="-HzTg4goH_dwjqOKglr7-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OVms_cX5vl7Okz3RIu64-21" target="OVms_cX5vl7Okz3RIu64-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OVms_cX5vl7Okz3RIu64-21" value="产品一审会议" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="5853" y="920" width="120" height="90" as="geometry" />
         </mxCell>
