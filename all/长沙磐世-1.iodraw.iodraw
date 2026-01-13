@@ -1239,9 +1239,14 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="6060" y="2000" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="5993" y="1995" />
-              <mxPoint x="5993" y="1710" />
+              <mxPoint x="6030" y="1995" />
+              <mxPoint x="6030" y="1710" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-HzTg4goH_dwjqOKglr7-41" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-HzTg4goH_dwjqOKglr7-40">
+          <mxGeometry x="-0.0272" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OVms_cX5vl7Okz3RIu64-62" value="技术评估及调整" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
