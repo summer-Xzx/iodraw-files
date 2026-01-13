@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="60z5xTqidQL4nnTp02uW">
-    <mxGraphModel dx="2062" dy="1855" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2514" dy="2077" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1387,6 +1387,174 @@
             <Array as="points">
               <mxPoint x="5793" y="3170" />
               <mxPoint x="5913" y="3170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-HzTg4goH_dwjqOKglr7-1" value="市场调研与趋势分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="5572" y="5200" width="204" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="-HzTg4goH_dwjqOKglr7-2" value="产品企划与设计提案" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="5526" y="5299" width="174" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="-HzTg4goH_dwjqOKglr7-3" value="设计评审与确认" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="5532" y="5421" width="161" height="161" as="geometry" />
+        </mxCell>
+        <mxCell id="-HzTg4goH_dwjqOKglr7-4" value="鞋楦开发与调整" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="5527" y="5655" width="172" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="-HzTg4goH_dwjqOKglr7-5" value="鞋面设计与材料选择" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="5460" y="5754" width="174" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="-HzTg4goH_dwjqOKglr7-6" value="大底设计与开发" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="5461" y="5853" width="172" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="-HzTg4goH_dwjqOKglr7-7" value="样品制作" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="5500" y="5952" width="94" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="-HzTg4goH_dwjqOKglr7-8" value="样品评审与修改" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="5532" y="6051" width="161" height="161" as="geometry" />
+        </mxCell>
+        <mxCell id="-HzTg4goH_dwjqOKglr7-9" value="生产工艺规划" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="5550" y="6285" width="126" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="-HzTg4goH_dwjqOKglr7-10" value="小批量试产" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="5485" y="6384" width="140" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="-HzTg4goH_dwjqOKglr7-11" value="试产评估与改进" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="5532" y="6483" width="161" height="161" as="geometry" />
+        </mxCell>
+        <mxCell id="-HzTg4goH_dwjqOKglr7-12" value="大货生产" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="5551" y="6717" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="-HzTg4goH_dwjqOKglr7-13" value="质量检测与包装" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="5542" y="6816" width="142" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="-HzTg4goH_dwjqOKglr7-14" value="入库与发货" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="5543" y="6915" width="140" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="-HzTg4goH_dwjqOKglr7-15" value="市场推广与销售" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="5542" y="7014" width="142" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="-HzTg4goH_dwjqOKglr7-16" value="售后服务与市场反馈" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="5587" y="7113" width="174" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="-HzTg4goH_dwjqOKglr7-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.35;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="-HzTg4goH_dwjqOKglr7-1" target="-HzTg4goH_dwjqOKglr7-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5613" y="5274" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-HzTg4goH_dwjqOKglr7-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.46;exitY=1;entryX=0.44;entryY=0;rounded=0;" edge="1" parent="1" source="-HzTg4goH_dwjqOKglr7-2" target="-HzTg4goH_dwjqOKglr7-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5598" y="5385" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-HzTg4goH_dwjqOKglr7-19" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.78;exitY=0;entryX=0.65;entryY=1;rounded=0;" edge="1" parent="1" source="-HzTg4goH_dwjqOKglr7-3" target="-HzTg4goH_dwjqOKglr7-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5678" y="5385" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-HzTg4goH_dwjqOKglr7-20" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="-HzTg4goH_dwjqOKglr7-3" target="-HzTg4goH_dwjqOKglr7-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-HzTg4goH_dwjqOKglr7-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.31;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="-HzTg4goH_dwjqOKglr7-4" target="-HzTg4goH_dwjqOKglr7-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5547" y="5729" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-HzTg4goH_dwjqOKglr7-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="-HzTg4goH_dwjqOKglr7-5" target="-HzTg4goH_dwjqOKglr7-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-HzTg4goH_dwjqOKglr7-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="-HzTg4goH_dwjqOKglr7-6" target="-HzTg4goH_dwjqOKglr7-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-HzTg4goH_dwjqOKglr7-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.19;entryY=0;rounded=0;" edge="1" parent="1" source="-HzTg4goH_dwjqOKglr7-7" target="-HzTg4goH_dwjqOKglr7-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5547" y="6026" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-HzTg4goH_dwjqOKglr7-25" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.81;exitY=0;entryX=0.69;entryY=1;rounded=0;" edge="1" parent="1" source="-HzTg4goH_dwjqOKglr7-8" target="-HzTg4goH_dwjqOKglr7-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5678" y="6026" />
+              <mxPoint x="5678" y="5729" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-HzTg4goH_dwjqOKglr7-26" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="-HzTg4goH_dwjqOKglr7-8" target="-HzTg4goH_dwjqOKglr7-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-HzTg4goH_dwjqOKglr7-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.27;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="-HzTg4goH_dwjqOKglr7-9" target="-HzTg4goH_dwjqOKglr7-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5555" y="6359" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-HzTg4goH_dwjqOKglr7-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.23;entryY=0;rounded=0;" edge="1" parent="1" source="-HzTg4goH_dwjqOKglr7-10" target="-HzTg4goH_dwjqOKglr7-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5555" y="6458" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-HzTg4goH_dwjqOKglr7-29" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.81;exitY=0;entryX=0.75;entryY=1;rounded=0;" edge="1" parent="1" source="-HzTg4goH_dwjqOKglr7-11" target="-HzTg4goH_dwjqOKglr7-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5678" y="6458" />
+              <mxPoint x="5678" y="6359" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-HzTg4goH_dwjqOKglr7-30" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="-HzTg4goH_dwjqOKglr7-11" target="-HzTg4goH_dwjqOKglr7-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-HzTg4goH_dwjqOKglr7-31" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="-HzTg4goH_dwjqOKglr7-12" target="-HzTg4goH_dwjqOKglr7-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-HzTg4goH_dwjqOKglr7-32" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="-HzTg4goH_dwjqOKglr7-13" target="-HzTg4goH_dwjqOKglr7-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-HzTg4goH_dwjqOKglr7-33" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="-HzTg4goH_dwjqOKglr7-14" target="-HzTg4goH_dwjqOKglr7-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-HzTg4goH_dwjqOKglr7-34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.32;entryY=0;rounded=0;" edge="1" parent="1" source="-HzTg4goH_dwjqOKglr7-15" target="-HzTg4goH_dwjqOKglr7-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5613" y="7088" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-HzTg4goH_dwjqOKglr7-35" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.73;exitY=0;entryX=0.69;entryY=1;rounded=0;" edge="1" parent="1" source="-HzTg4goH_dwjqOKglr7-16" target="-HzTg4goH_dwjqOKglr7-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5754" y="7088" />
+              <mxPoint x="5754" y="5274" />
             </Array>
           </mxGeometry>
         </mxCell>
