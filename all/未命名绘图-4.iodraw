@@ -1632,7 +1632,7 @@
           <mxGeometry x="7652" y="-891" width="86" height="32" as="geometry" />
         </mxCell>
         <mxCell id="Q8FeI9xvyLiYXDSu9bbo-8" value="新品下单流程" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="7813" y="-891" width="120" height="32" as="geometry" />
+          <mxGeometry x="7810" y="-891" width="120" height="32" as="geometry" />
         </mxCell>
         <mxCell id="Q8FeI9xvyLiYXDSu9bbo-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q8FeI9xvyLiYXDSu9bbo-1">
           <mxGeometry relative="1" as="geometry">
