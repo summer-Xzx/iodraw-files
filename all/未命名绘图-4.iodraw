@@ -1654,8 +1654,17 @@
         <mxCell id="Q8FeI9xvyLiYXDSu9bbo-15" value="&lt;div&gt;产品&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="7550" y="1020" width="50" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Q8FeI9xvyLiYXDSu9bbo-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q8FeI9xvyLiYXDSu9bbo-16" target="Q8FeI9xvyLiYXDSu9bbo-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Q8FeI9xvyLiYXDSu9bbo-16" value="采购计划订单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="7690" y="1140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q8FeI9xvyLiYXDSu9bbo-18" value="采购订单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7690" y="1280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q8FeI9xvyLiYXDSu9bbo-20" value="&lt;div&gt;产品&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="7560" y="1030" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
