@@ -1712,11 +1712,8 @@
         <mxCell id="Q8FeI9xvyLiYXDSu9bbo-33" value="&lt;div&gt;产品&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="7670" y="-233" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Q8FeI9xvyLiYXDSu9bbo-34" value="&lt;div&gt;运营&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="7670" y="-79" width="50" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="Q8FeI9xvyLiYXDSu9bbo-36" value="&lt;div&gt;运营&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;@项目/计划&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="7708" y="-107" width="82" height="41" as="geometry" />
+          <mxGeometry x="7654" y="-68" width="82" height="41" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
