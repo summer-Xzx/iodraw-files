@@ -1615,7 +1615,10 @@
           <mxGeometry x="7690" y="810" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Q8FeI9xvyLiYXDSu9bbo-6" value="产品&lt;div&gt;运营&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="7505" y="673" width="50" height="40" as="geometry" />
+          <mxGeometry x="7550" y="690" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Q8FeI9xvyLiYXDSu9bbo-7" value="责任部门" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="7525" y="618" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
