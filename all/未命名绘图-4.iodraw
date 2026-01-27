@@ -1606,7 +1606,7 @@
         <mxCell id="Q8FeI9xvyLiYXDSu9bbo-1" value="立项会议" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="7690" y="670" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Q8FeI9xvyLiYXDSu9bbo-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Q8FeI9xvyLiYXDSu9bbo-2" value="首批下单数量" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="7690" y="810" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
