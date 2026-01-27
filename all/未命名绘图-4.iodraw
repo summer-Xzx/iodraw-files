@@ -1682,7 +1682,11 @@
           <mxGeometry x="7560" y="1440" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Q8FeI9xvyLiYXDSu9bbo-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q8FeI9xvyLiYXDSu9bbo-25" target="Q8FeI9xvyLiYXDSu9bbo-27">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="7970" y="1600" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Q8FeI9xvyLiYXDSu9bbo-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q8FeI9xvyLiYXDSu9bbo-25" target="Q8FeI9xvyLiYXDSu9bbo-29">
           <mxGeometry relative="1" as="geometry" />
@@ -1698,6 +1702,9 @@
         </mxCell>
         <mxCell id="Q8FeI9xvyLiYXDSu9bbo-29" value="增加下单量" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="7910" y="1724" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q8FeI9xvyLiYXDSu9bbo-32" value="&lt;div&gt;运营&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="7560" y="885" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
