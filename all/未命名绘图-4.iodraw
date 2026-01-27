@@ -1679,7 +1679,7 @@
           <mxGeometry x="7690" y="1420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Q8FeI9xvyLiYXDSu9bbo-24" value="&lt;div&gt;采购&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="7560" y="1440" width="50" height="30" as="geometry" />
+          <mxGeometry x="7550" y="1445" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Q8FeI9xvyLiYXDSu9bbo-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q8FeI9xvyLiYXDSu9bbo-25" target="Q8FeI9xvyLiYXDSu9bbo-27">
           <mxGeometry relative="1" as="geometry">
@@ -1704,10 +1704,10 @@
           <mxGeometry x="7900" y="1844" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Q8FeI9xvyLiYXDSu9bbo-32" value="&lt;div&gt;运营&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="7560" y="1555" width="50" height="30" as="geometry" />
+          <mxGeometry x="7550" y="1556" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Q8FeI9xvyLiYXDSu9bbo-33" value="&lt;div&gt;产品&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="7560" y="1030" width="50" height="30" as="geometry" />
+          <mxGeometry x="7550" y="1705" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
