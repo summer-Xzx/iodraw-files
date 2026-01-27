@@ -1614,8 +1614,8 @@
         <mxCell id="Q8FeI9xvyLiYXDSu9bbo-2" value="首批下单数量" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="7690" y="810" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Q8FeI9xvyLiYXDSu9bbo-6" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="7505" y="678" width="50" height="30" as="geometry" />
+        <mxCell id="Q8FeI9xvyLiYXDSu9bbo-6" value="产品&lt;div&gt;运营&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="7505" y="673" width="50" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
