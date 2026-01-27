@@ -1616,7 +1616,7 @@
         </mxCell>
         <mxCell id="Q8FeI9xvyLiYXDSu9bbo-39" value="新建产品资料" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Q8FeI9xvyLiYXDSu9bbo-13">
           <mxGeometry x="-0.1957" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="10" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Q8FeI9xvyLiYXDSu9bbo-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q8FeI9xvyLiYXDSu9bbo-2" target="Q8FeI9xvyLiYXDSu9bbo-25">
@@ -1652,6 +1652,11 @@
         </mxCell>
         <mxCell id="Q8FeI9xvyLiYXDSu9bbo-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q8FeI9xvyLiYXDSu9bbo-12" target="Q8FeI9xvyLiYXDSu9bbo-16">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q8FeI9xvyLiYXDSu9bbo-40" value="通过" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Q8FeI9xvyLiYXDSu9bbo-17">
+          <mxGeometry x="-0.3226" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Q8FeI9xvyLiYXDSu9bbo-12" value="首单审批&lt;div&gt;（企微审批）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="7810" y="-498" width="120" height="60" as="geometry" />
