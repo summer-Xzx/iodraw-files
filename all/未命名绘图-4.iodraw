@@ -1706,6 +1706,9 @@
         <mxCell id="Q8FeI9xvyLiYXDSu9bbo-32" value="&lt;div&gt;运营&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="7560" y="1555" width="50" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Q8FeI9xvyLiYXDSu9bbo-33" value="&lt;div&gt;产品&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="7560" y="1030" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
