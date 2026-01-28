@@ -1737,8 +1737,8 @@
         <mxCell id="Q8FeI9xvyLiYXDSu9bbo-86" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="6263" y="-797" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Q8FeI9xvyLiYXDSu9bbo-87" value="转厂产品流程" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="6232" y="-890" width="132" height="35" as="geometry" />
+        <mxCell id="Q8FeI9xvyLiYXDSu9bbo-87" value="转厂产品流程" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=19;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="6257" y="-918" width="132" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
