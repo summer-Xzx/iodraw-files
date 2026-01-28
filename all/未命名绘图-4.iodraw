@@ -1762,6 +1762,9 @@
         <mxCell id="Q8FeI9xvyLiYXDSu9bbo-99" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q8FeI9xvyLiYXDSu9bbo-90" target="Q8FeI9xvyLiYXDSu9bbo-98">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Q8FeI9xvyLiYXDSu9bbo-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q8FeI9xvyLiYXDSu9bbo-90" target="Q8FeI9xvyLiYXDSu9bbo-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Q8FeI9xvyLiYXDSu9bbo-90" value="新厂审厂" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="6263" y="-517" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1788,7 +1791,7 @@
           <mxGeometry x="6150" y="-220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Q8FeI9xvyLiYXDSu9bbo-102" value="材料打样" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="6335" y="-360" width="120" height="60" as="geometry" />
+          <mxGeometry x="6370" y="-360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
