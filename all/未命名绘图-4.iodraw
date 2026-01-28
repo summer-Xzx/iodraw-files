@@ -1757,9 +1757,6 @@
         <mxCell id="Q8FeI9xvyLiYXDSu9bbo-90" value="新厂审厂" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="6263" y="-517" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Q8FeI9xvyLiYXDSu9bbo-95" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="6378" y="-722" width="80" height="80" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
