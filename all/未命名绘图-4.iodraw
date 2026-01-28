@@ -1808,10 +1808,10 @@
         <mxCell id="Q8FeI9xvyLiYXDSu9bbo-110" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q8FeI9xvyLiYXDSu9bbo-106" target="Q8FeI9xvyLiYXDSu9bbo-109">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Q8FeI9xvyLiYXDSu9bbo-106" value="签样" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Q8FeI9xvyLiYXDSu9bbo-106" value="挂牌签样" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="6263" y="-60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Q8FeI9xvyLiYXDSu9bbo-109" value="签样" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Q8FeI9xvyLiYXDSu9bbo-109" value="下单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="6263" y="80" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
