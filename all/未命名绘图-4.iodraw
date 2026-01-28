@@ -1796,8 +1796,14 @@
         <mxCell id="Q8FeI9xvyLiYXDSu9bbo-102" value="材料打样" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="6370" y="-360" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Q8FeI9xvyLiYXDSu9bbo-107" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q8FeI9xvyLiYXDSu9bbo-104" target="Q8FeI9xvyLiYXDSu9bbo-106">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Q8FeI9xvyLiYXDSu9bbo-104" value="材料确认" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="6370" y="-220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q8FeI9xvyLiYXDSu9bbo-106" value="材料确认" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6370" y="-80" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
