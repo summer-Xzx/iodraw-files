@@ -1646,7 +1646,7 @@
         </mxCell>
         <mxCell id="Q8FeI9xvyLiYXDSu9bbo-11" value="&amp;nbsp;不通过" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Q8FeI9xvyLiYXDSu9bbo-9">
           <mxGeometry x="0.0589" relative="1" as="geometry">
-            <mxPoint x="-4" as="offset" />
+            <mxPoint x="-2" y="-40" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Q8FeI9xvyLiYXDSu9bbo-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q8FeI9xvyLiYXDSu9bbo-12" target="Q8FeI9xvyLiYXDSu9bbo-16">
