@@ -1778,7 +1778,7 @@
             <mxPoint x="-3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q8FeI9xvyLiYXDSu9bbo-98" value="新厂审厂" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Q8FeI9xvyLiYXDSu9bbo-98" value="转技" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="6263" y="-377" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
