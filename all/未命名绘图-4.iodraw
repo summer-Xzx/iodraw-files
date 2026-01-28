@@ -1713,7 +1713,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Q8FeI9xvyLiYXDSu9bbo-27" value="新变体" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="8020" y="-248" width="120" height="60" as="geometry" />
+          <mxGeometry x="8020" y="-250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Q8FeI9xvyLiYXDSu9bbo-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q8FeI9xvyLiYXDSu9bbo-29" target="Q8FeI9xvyLiYXDSu9bbo-45">
           <mxGeometry relative="1" as="geometry" />
