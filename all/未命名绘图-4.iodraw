@@ -1608,7 +1608,7 @@
             <mxPoint x="-3" y="21" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q8FeI9xvyLiYXDSu9bbo-1" value="立项会议" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Q8FeI9xvyLiYXDSu9bbo-1" value="立项会议" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="7706" y="-817" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Q8FeI9xvyLiYXDSu9bbo-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q8FeI9xvyLiYXDSu9bbo-2" target="Q8FeI9xvyLiYXDSu9bbo-12">
@@ -1736,7 +1736,7 @@
           <mxGeometry x="7916" y="-84" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Q8FeI9xvyLiYXDSu9bbo-85" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="7818" y="-573" width="80" height="80" as="geometry" />
+          <mxGeometry x="7991" y="-807" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
