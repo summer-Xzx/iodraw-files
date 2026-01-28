@@ -1665,7 +1665,7 @@
           <mxGeometry x="7566" y="-612" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Q8FeI9xvyLiYXDSu9bbo-15" value="&lt;div&gt;产品&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="7566" y="-467" width="50" height="30" as="geometry" />
+          <mxGeometry x="7566" y="-376" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Q8FeI9xvyLiYXDSu9bbo-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q8FeI9xvyLiYXDSu9bbo-16" target="Q8FeI9xvyLiYXDSu9bbo-18">
           <mxGeometry relative="1" as="geometry" />
