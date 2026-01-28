@@ -1742,7 +1742,7 @@
           <mxGeometry x="7916" y="57" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Q8FeI9xvyLiYXDSu9bbo-84" value="责任部门" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="8032" y="-867" width="86" height="32" as="geometry" />
+          <mxGeometry x="8056" y="-880" width="86" height="32" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
