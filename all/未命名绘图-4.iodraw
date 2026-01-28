@@ -1609,7 +1609,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Q8FeI9xvyLiYXDSu9bbo-1" value="立项会议" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="7706" y="-817" width="120" height="60" as="geometry" />
+          <mxGeometry x="7706" y="-847" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Q8FeI9xvyLiYXDSu9bbo-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q8FeI9xvyLiYXDSu9bbo-2" target="Q8FeI9xvyLiYXDSu9bbo-12">
           <mxGeometry relative="1" as="geometry" />
