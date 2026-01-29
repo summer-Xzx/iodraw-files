@@ -1839,7 +1839,10 @@
           <mxGeometry x="6481" y="125" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Q8FeI9xvyLiYXDSu9bbo-119" value="采购" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="6491" y="135" width="60" height="30" as="geometry" />
+          <mxGeometry x="6481" y="261" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q8FeI9xvyLiYXDSu9bbo-120" value="采购" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="6848" y="-309" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
