@@ -1881,6 +1881,9 @@
         <mxCell id="iN3cyOYmTWP8iqe_JSlY-177" value="工厂" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="5767" y="2830" width="42" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="iN3cyOYmTWP8iqe_JSlY-179" value="工厂Fit打样" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="5972" y="1457" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
