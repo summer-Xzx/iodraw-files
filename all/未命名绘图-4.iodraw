@@ -1838,10 +1838,10 @@
         <mxCell id="iN3cyOYmTWP8iqe_JSlY-157" value="技术确认木模" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="5841" y="2389.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iN3cyOYmTWP8iqe_JSlY-166" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iN3cyOYmTWP8iqe_JSlY-159" target="iN3cyOYmTWP8iqe_JSlY-155">
+        <mxCell id="iN3cyOYmTWP8iqe_JSlY-166" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="iN3cyOYmTWP8iqe_JSlY-167" target="iN3cyOYmTWP8iqe_JSlY-155">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="5990" y="2550" />
+              <mxPoint x="5990" y="2700" />
               <mxPoint x="5990" y="2280" />
             </Array>
           </mxGeometry>
