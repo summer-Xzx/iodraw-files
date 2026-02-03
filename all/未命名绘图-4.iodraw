@@ -1937,9 +1937,6 @@
         <mxCell id="iN3cyOYmTWP8iqe_JSlY-27" value="技术与脚模" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="6409" y="2127" width="78" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="iN3cyOYmTWP8iqe_JSlY-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iN3cyOYmTWP8iqe_JSlY-29" target="iN3cyOYmTWP8iqe_JSlY-32">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="iN3cyOYmTWP8iqe_JSlY-29" value="配色单" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="6730" y="1972" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1965,9 +1962,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iN3cyOYmTWP8iqe_JSlY-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iN3cyOYmTWP8iqe_JSlY-34" target="iN3cyOYmTWP8iqe_JSlY-40">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="iN3cyOYmTWP8iqe_JSlY-34" value="材料确认" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="6730" y="2252" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1978,7 +1972,7 @@
           <mxGeometry x="6897" y="2272" width="42" height="26" as="geometry" />
         </mxCell>
         <mxCell id="iN3cyOYmTWP8iqe_JSlY-40" value="确认样品单" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="6730" y="2392" width="120" height="60" as="geometry" />
+          <mxGeometry x="7019" y="2270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iN3cyOYmTWP8iqe_JSlY-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iN3cyOYmTWP8iqe_JSlY-42" target="iN3cyOYmTWP8iqe_JSlY-45">
           <mxGeometry relative="1" as="geometry" />
