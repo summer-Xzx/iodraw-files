@@ -2049,6 +2049,9 @@
         <mxCell id="iN3cyOYmTWP8iqe_JSlY-58" value="脚模" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="6439" y="2689" width="42" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="iN3cyOYmTWP8iqe_JSlY-61" value="采购" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="6930" y="2177" width="42" height="26" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
