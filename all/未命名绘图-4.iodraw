@@ -1904,10 +1904,8 @@
             <mxPoint x="1" y="-9" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iN3cyOYmTWP8iqe_JSlY-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iN3cyOYmTWP8iqe_JSlY-9">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="6763" y="1998" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="iN3cyOYmTWP8iqe_JSlY-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iN3cyOYmTWP8iqe_JSlY-9" target="iN3cyOYmTWP8iqe_JSlY-29">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iN3cyOYmTWP8iqe_JSlY-9" value="长沙确认" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="6619" y="1804" width="120" height="60" as="geometry" />
@@ -1938,6 +1936,9 @@
         </mxCell>
         <mxCell id="iN3cyOYmTWP8iqe_JSlY-27" value="技术与脚模" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="6409" y="2127" width="78" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="iN3cyOYmTWP8iqe_JSlY-29" value="长沙确认" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="6819" y="1804" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
