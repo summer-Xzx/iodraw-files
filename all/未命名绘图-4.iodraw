@@ -2121,6 +2121,9 @@
         <mxCell id="iN3cyOYmTWP8iqe_JSlY-90" value="技术与脚模" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="6429" y="3110" width="78" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="iN3cyOYmTWP8iqe_JSlY-107" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iN3cyOYmTWP8iqe_JSlY-91" target="iN3cyOYmTWP8iqe_JSlY-106">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="iN3cyOYmTWP8iqe_JSlY-91" value="斩刀全套" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="6529" y="3233" width="120" height="60" as="geometry" />
         </mxCell>
@@ -2153,6 +2156,9 @@
         </mxCell>
         <mxCell id="iN3cyOYmTWP8iqe_JSlY-105" value="QC" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="6917" y="3432" width="36" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="iN3cyOYmTWP8iqe_JSlY-106" value="斩刀全套" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="6632" y="3604" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
