@@ -2050,7 +2050,7 @@
           <mxGeometry x="6529" y="2673" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iN3cyOYmTWP8iqe_JSlY-58" value="脚模" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="6439" y="2764" width="42" height="26" as="geometry" />
+          <mxGeometry x="6441" y="2697" width="42" height="26" as="geometry" />
         </mxCell>
         <mxCell id="iN3cyOYmTWP8iqe_JSlY-61" value="采购" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="7070" y="2515" width="42" height="26" as="geometry" />
@@ -2066,6 +2066,9 @@
         </mxCell>
         <mxCell id="iN3cyOYmTWP8iqe_JSlY-68" value="颜色确认样" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="6726" y="2673" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iN3cyOYmTWP8iqe_JSlY-70" value="挂牌签样" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="6726" y="2810" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
