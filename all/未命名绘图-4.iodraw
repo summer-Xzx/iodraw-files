@@ -2133,6 +2133,9 @@
         <mxCell id="iN3cyOYmTWP8iqe_JSlY-96" value="工厂备料" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="6726" y="3140" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="iN3cyOYmTWP8iqe_JSlY-104" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iN3cyOYmTWP8iqe_JSlY-98" target="iN3cyOYmTWP8iqe_JSlY-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="iN3cyOYmTWP8iqe_JSlY-98" value="大货色卡签样" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="6726" y="3280" width="120" height="60" as="geometry" />
         </mxCell>
@@ -2144,6 +2147,12 @@
         </mxCell>
         <mxCell id="iN3cyOYmTWP8iqe_JSlY-102" value="采购" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="6911" y="3164" width="42" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="iN3cyOYmTWP8iqe_JSlY-103" value="材料测试" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6726" y="3420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iN3cyOYmTWP8iqe_JSlY-105" value="QC" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="6929" y="3307" width="36" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
