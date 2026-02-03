@@ -1877,7 +1877,7 @@
         <mxCell id="iN3cyOYmTWP8iqe_JSlY-5" value="工厂打样" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="6619" y="1511" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iN3cyOYmTWP8iqe_JSlY-7" value="工厂打样" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="iN3cyOYmTWP8iqe_JSlY-7" value="工厂寄出长沙确认" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="6619" y="1651" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
