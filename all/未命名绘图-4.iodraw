@@ -1951,7 +1951,7 @@
         </mxCell>
         <mxCell id="iN3cyOYmTWP8iqe_JSlY-144" value="寄出" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iN3cyOYmTWP8iqe_JSlY-35">
           <mxGeometry x="-0.1542" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-2" y="3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iN3cyOYmTWP8iqe_JSlY-32" value="工厂寻材料" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
@@ -2044,6 +2044,9 @@
           <mxGeometry x="-0.025" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="iN3cyOYmTWP8iqe_JSlY-145" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iN3cyOYmTWP8iqe_JSlY-50" target="iN3cyOYmTWP8iqe_JSlY-52">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iN3cyOYmTWP8iqe_JSlY-50" value="1.5双Fit" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="6878" y="2487" width="120" height="60" as="geometry" />
