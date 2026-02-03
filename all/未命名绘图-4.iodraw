@@ -2121,6 +2121,9 @@
         <mxCell id="iN3cyOYmTWP8iqe_JSlY-91" value="斩刀全套" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="6529" y="3233" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="iN3cyOYmTWP8iqe_JSlY-93" value="技术/脚模/QC" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="6417.5" y="3253" width="91" height="26" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
