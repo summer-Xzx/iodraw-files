@@ -2139,8 +2139,11 @@
         <mxCell id="iN3cyOYmTWP8iqe_JSlY-100" value="QC" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="6919" y="3297" width="36" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="iN3cyOYmTWP8iqe_JSlY-101" value="产品" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="6900" y="2990" width="42" height="26" as="geometry" />
+        <mxCell id="iN3cyOYmTWP8iqe_JSlY-101" value="产品/采购" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="6887" y="2990" width="69" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="iN3cyOYmTWP8iqe_JSlY-102" value="产品/采购" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="6897" y="3164" width="69" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
