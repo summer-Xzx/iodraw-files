@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="60z5xTqidQL4nnTp02uW">
-    <mxGraphModel dx="2514" dy="2077" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="2876" dy="2272" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2058,10 +2058,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iN3cyOYmTWP8iqe_JSlY-56" value="挂牌签样" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="6878" y="2630" width="120" height="60" as="geometry" />
+          <mxGeometry x="6770" y="2667" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iN3cyOYmTWP8iqe_JSlY-58" value="脚模/技术/产品" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="6763" y="2654" width="97" height="26" as="geometry" />
+          <mxGeometry x="6655" y="2691" width="97" height="26" as="geometry" />
         </mxCell>
         <mxCell id="iN3cyOYmTWP8iqe_JSlY-61" value="采购" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="7419" y="2472" width="42" height="26" as="geometry" />
@@ -2106,28 +2106,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iN3cyOYmTWP8iqe_JSlY-82" value="全套开模" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="6878" y="2770" width="120" height="60" as="geometry" />
+          <mxGeometry x="6770" y="2807" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iN3cyOYmTWP8iqe_JSlY-84" value="技术与脚模" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="6772.5" y="2794" width="78" height="26" as="geometry" />
+          <mxGeometry x="6664.5" y="2831" width="78" height="26" as="geometry" />
         </mxCell>
         <mxCell id="iN3cyOYmTWP8iqe_JSlY-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iN3cyOYmTWP8iqe_JSlY-85" target="iN3cyOYmTWP8iqe_JSlY-88">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iN3cyOYmTWP8iqe_JSlY-85" value="全套试做" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="6878" y="2910" width="120" height="60" as="geometry" />
+          <mxGeometry x="6770" y="2947" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iN3cyOYmTWP8iqe_JSlY-87" value="技术与脚模" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="6776" y="2927" width="78" height="26" as="geometry" />
+          <mxGeometry x="6668" y="2964" width="78" height="26" as="geometry" />
         </mxCell>
         <mxCell id="iN3cyOYmTWP8iqe_JSlY-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iN3cyOYmTWP8iqe_JSlY-88" target="iN3cyOYmTWP8iqe_JSlY-91">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iN3cyOYmTWP8iqe_JSlY-88" value="手剪全套" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="6878" y="3050" width="120" height="60" as="geometry" />
+          <mxGeometry x="6770" y="3087" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iN3cyOYmTWP8iqe_JSlY-90" value="技术与脚模" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="6778" y="3067" width="78" height="26" as="geometry" />
+          <mxGeometry x="6670" y="3104" width="78" height="26" as="geometry" />
         </mxCell>
         <mxCell id="iN3cyOYmTWP8iqe_JSlY-107" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iN3cyOYmTWP8iqe_JSlY-91" target="iN3cyOYmTWP8iqe_JSlY-106">
           <mxGeometry relative="1" as="geometry">
@@ -2138,10 +2138,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="iN3cyOYmTWP8iqe_JSlY-91" value="斩刀全套" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="6878" y="3190" width="120" height="60" as="geometry" />
+          <mxGeometry x="6770" y="3227" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iN3cyOYmTWP8iqe_JSlY-93" value="技术/脚模/QC" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="6766.5" y="3210" width="91" height="26" as="geometry" />
+          <mxGeometry x="6658.5" y="3247" width="91" height="26" as="geometry" />
         </mxCell>
         <mxCell id="iN3cyOYmTWP8iqe_JSlY-99" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iN3cyOYmTWP8iqe_JSlY-96" target="iN3cyOYmTWP8iqe_JSlY-98">
           <mxGeometry relative="1" as="geometry" />
