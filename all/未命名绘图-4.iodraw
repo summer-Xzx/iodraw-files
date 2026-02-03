@@ -2064,11 +2064,17 @@
         <mxCell id="iN3cyOYmTWP8iqe_JSlY-65" value="单只配色样" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="6726" y="2533" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="iN3cyOYmTWP8iqe_JSlY-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iN3cyOYmTWP8iqe_JSlY-68" target="iN3cyOYmTWP8iqe_JSlY-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="iN3cyOYmTWP8iqe_JSlY-68" value="颜色确认样" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="6726" y="2673" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iN3cyOYmTWP8iqe_JSlY-70" value="挂牌签样" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="6726" y="2810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iN3cyOYmTWP8iqe_JSlY-72" value="开发" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="6907" y="2144" width="42" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
