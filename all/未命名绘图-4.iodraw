@@ -1817,7 +1817,7 @@
         <mxCell id="iN3cyOYmTWP8iqe_JSlY-160" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iN3cyOYmTWP8iqe_JSlY-157" target="iN3cyOYmTWP8iqe_JSlY-159">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iN3cyOYmTWP8iqe_JSlY-157" value="技术确认" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="iN3cyOYmTWP8iqe_JSlY-157" value="技术确认木模" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="5841" y="2389.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iN3cyOYmTWP8iqe_JSlY-159" value="试做" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
