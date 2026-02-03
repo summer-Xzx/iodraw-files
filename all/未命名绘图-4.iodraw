@@ -1897,10 +1897,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iN3cyOYmTWP8iqe_JSlY-183" value="长沙确认" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="7155" y="1137" width="120" height="60" as="geometry" />
+          <mxGeometry x="7285" y="1146" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iN3cyOYmTWP8iqe_JSlY-184" value="头型，外观，线条" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="7155" y="1277" width="120" height="60" as="geometry" />
+          <mxGeometry x="7285" y="1286" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
