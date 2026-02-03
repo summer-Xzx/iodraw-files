@@ -2045,6 +2045,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="iN3cyOYmTWP8iqe_JSlY-147" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iN3cyOYmTWP8iqe_JSlY-50" target="iN3cyOYmTWP8iqe_JSlY-146">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="iN3cyOYmTWP8iqe_JSlY-50" value="1.5双Fit" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="6878" y="2487" width="120" height="60" as="geometry" />
         </mxCell>
@@ -2202,6 +2205,9 @@
         </mxCell>
         <mxCell id="iN3cyOYmTWP8iqe_JSlY-140" value="小批量试产" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="6981" y="3732" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iN3cyOYmTWP8iqe_JSlY-146" value="协助工厂成型" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="6678" y="2487" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
