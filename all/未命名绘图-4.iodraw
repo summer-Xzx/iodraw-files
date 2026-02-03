@@ -1860,6 +1860,12 @@
         <mxCell id="iN3cyOYmTWP8iqe_JSlY-167" value="全套钢模" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="5841" y="2669.5" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="iN3cyOYmTWP8iqe_JSlY-170" value="工厂" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="5758" y="2266.5" width="42" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="iN3cyOYmTWP8iqe_JSlY-171" value="工厂" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="5768" y="2276.5" width="42" height="26" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
