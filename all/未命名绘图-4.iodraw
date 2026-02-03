@@ -2212,8 +2212,14 @@
         <mxCell id="iN3cyOYmTWP8iqe_JSlY-146" value="协助工厂成型" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="6678" y="2487" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="iN3cyOYmTWP8iqe_JSlY-151" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iN3cyOYmTWP8iqe_JSlY-148" target="iN3cyOYmTWP8iqe_JSlY-150">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="iN3cyOYmTWP8iqe_JSlY-148" value="试穿" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="6924" y="2667" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iN3cyOYmTWP8iqe_JSlY-150" value="试穿反馈" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="6924" y="2807" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
