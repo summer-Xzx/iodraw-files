@@ -2091,7 +2091,7 @@
         <mxCell id="iN3cyOYmTWP8iqe_JSlY-97" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iN3cyOYmTWP8iqe_JSlY-77" target="iN3cyOYmTWP8iqe_JSlY-96">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iN3cyOYmTWP8iqe_JSlY-77" value="新品下单" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iN3cyOYmTWP8iqe_JSlY-77" value="新品下单流程" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="6726" y="2955" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="iN3cyOYmTWP8iqe_JSlY-86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iN3cyOYmTWP8iqe_JSlY-82" target="iN3cyOYmTWP8iqe_JSlY-85">
