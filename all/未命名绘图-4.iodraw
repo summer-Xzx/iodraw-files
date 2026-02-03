@@ -2047,8 +2047,8 @@
         <mxCell id="iN3cyOYmTWP8iqe_JSlY-61" value="采购" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="6926" y="2318" width="42" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="iN3cyOYmTWP8iqe_JSlY-64" value="产品" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="6907" y="1994" width="42" height="26" as="geometry" />
+        <mxCell id="iN3cyOYmTWP8iqe_JSlY-64" value="开发" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="6897" y="2134" width="42" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
