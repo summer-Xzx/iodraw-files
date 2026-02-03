@@ -1922,8 +1922,8 @@
         <mxCell id="iN3cyOYmTWP8iqe_JSlY-23" value="产品" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="6499" y="1818" width="42" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="iN3cyOYmTWP8iqe_JSlY-24" value="产品" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="6509" y="1828" width="42" height="26" as="geometry" />
+        <mxCell id="iN3cyOYmTWP8iqe_JSlY-24" value="技术与脚模" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="6487" y="1976" width="78" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
