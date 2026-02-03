@@ -1881,7 +1881,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iN3cyOYmTWP8iqe_JSlY-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iN3cyOYmTWP8iqe_JSlY-7" target="iN3cyOYmTWP8iqe_JSlY-5">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="6776" y="1687" />
+              <mxPoint x="6776" y="1541" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="iN3cyOYmTWP8iqe_JSlY-7" value="工厂寄出长沙确认" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="6619" y="1651" width="120" height="60" as="geometry" />
