@@ -1977,7 +1977,17 @@
           <mxGeometry x="5841" y="2949.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iN3cyOYmTWP8iqe_JSlY-226" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iN3cyOYmTWP8iqe_JSlY-221" target="iN3cyOYmTWP8iqe_JSlY-219">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5981" y="3126" />
+              <mxPoint x="5981" y="2980" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iN3cyOYmTWP8iqe_JSlY-227" value="NG" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iN3cyOYmTWP8iqe_JSlY-226">
+          <mxGeometry x="0.018" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="iN3cyOYmTWP8iqe_JSlY-221" value="手剪全套确认" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="5841" y="3089.5" width="120" height="60" as="geometry" />
