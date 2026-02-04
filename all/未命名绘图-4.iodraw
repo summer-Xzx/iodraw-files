@@ -1449,7 +1449,7 @@
         <mxCell id="iN3cyOYmTWP8iqe_JSlY-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iN3cyOYmTWP8iqe_JSlY-9" target="iN3cyOYmTWP8iqe_JSlY-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="6805" y="1096" />
+              <mxPoint x="6805" y="1052" />
               <mxPoint x="6805" y="898" />
             </Array>
           </mxGeometry>
@@ -1459,15 +1459,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iN3cyOYmTWP8iqe_JSlY-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iN3cyOYmTWP8iqe_JSlY-9" target="iN3cyOYmTWP8iqe_JSlY-17">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="iN3cyOYmTWP8iqe_JSlY-19" value="OK" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iN3cyOYmTWP8iqe_JSlY-18">
-          <mxGeometry x="0.1464" y="-1" relative="1" as="geometry">
-            <mxPoint x="66" y="-35" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="iN3cyOYmTWP8iqe_JSlY-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iN3cyOYmTWP8iqe_JSlY-9" target="iN3cyOYmTWP8iqe_JSlY-29">
+        <mxCell id="iN3cyOYmTWP8iqe_JSlY-209" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iN3cyOYmTWP8iqe_JSlY-9" target="iN3cyOYmTWP8iqe_JSlY-208">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iN3cyOYmTWP8iqe_JSlY-9" value="长沙确认" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
@@ -1944,6 +1936,9 @@
         </mxCell>
         <mxCell id="iN3cyOYmTWP8iqe_JSlY-202" value="需要产研，技术，工厂三方评估。" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="6916" y="820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iN3cyOYmTWP8iqe_JSlY-208" value="长沙确认" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="6647" y="1162" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
