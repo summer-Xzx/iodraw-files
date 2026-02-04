@@ -2077,7 +2077,7 @@
         <mxCell id="iN3cyOYmTWP8iqe_JSlY-248" value="技术/脚模/QC" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="5738.5" y="3806.5" width="91" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="iN3cyOYmTWP8iqe_JSlY-251" value="大货量产" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="iN3cyOYmTWP8iqe_JSlY-251" value="生产做货" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="5841" y="3929.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iN3cyOYmTWP8iqe_JSlY-253" value="工厂" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
