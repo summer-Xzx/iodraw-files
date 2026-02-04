@@ -2098,7 +2098,7 @@
         <mxCell id="iN3cyOYmTWP8iqe_JSlY-256" value="佛山仓全检" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="5841" y="4209.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iN3cyOYmTWP8iqe_JSlY-260" value="品质验货" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="iN3cyOYmTWP8iqe_JSlY-260" value="不良品返工" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="6041" y="4069.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
