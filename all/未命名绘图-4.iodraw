@@ -1441,7 +1441,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iN3cyOYmTWP8iqe_JSlY-4" value="初版画像" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="6645.5" y="728" width="120" height="60" as="geometry" />
+          <mxGeometry x="6645.5" y="529" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iN3cyOYmTWP8iqe_JSlY-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iN3cyOYmTWP8iqe_JSlY-5" target="iN3cyOYmTWP8iqe_JSlY-7">
           <mxGeometry relative="1" as="geometry" />
@@ -1492,7 +1492,7 @@
           <mxGeometry x="6520.5" y="875" width="42" height="26" as="geometry" />
         </mxCell>
         <mxCell id="iN3cyOYmTWP8iqe_JSlY-21" value="产品" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="6516.5" y="746" width="42" height="26" as="geometry" />
+          <mxGeometry x="6516.5" y="547" width="42" height="26" as="geometry" />
         </mxCell>
         <mxCell id="iN3cyOYmTWP8iqe_JSlY-22" value="采购" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="6522.5" y="1025" width="42" height="26" as="geometry" />
