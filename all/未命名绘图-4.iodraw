@@ -1680,7 +1680,7 @@
           <mxGeometry x="6447.5" y="2207" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iN3cyOYmTWP8iqe_JSlY-84" value="工厂" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="6133" y="2231" width="42" height="26" as="geometry" />
+          <mxGeometry x="6352" y="2223.5" width="42" height="26" as="geometry" />
         </mxCell>
         <mxCell id="iN3cyOYmTWP8iqe_JSlY-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iN3cyOYmTWP8iqe_JSlY-85" target="iN3cyOYmTWP8iqe_JSlY-88">
           <mxGeometry relative="1" as="geometry" />
