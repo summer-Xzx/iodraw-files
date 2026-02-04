@@ -2136,7 +2136,7 @@
         <mxCell id="iN3cyOYmTWP8iqe_JSlY-269" value="良品数量统计" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="5841" y="4349.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iN3cyOYmTWP8iqe_JSlY-271" value="良品数量统计" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="iN3cyOYmTWP8iqe_JSlY-271" value="运营调拨" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="5841" y="4489.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
