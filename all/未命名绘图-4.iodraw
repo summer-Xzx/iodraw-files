@@ -1632,7 +1632,7 @@
           <mxGeometry x="6447.5" y="2067" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iN3cyOYmTWP8iqe_JSlY-58" value="脚模/技术/产品" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="6332.5" y="2091" width="97" height="26" as="geometry" />
+          <mxGeometry x="6333" y="2080" width="97" height="26" as="geometry" />
         </mxCell>
         <mxCell id="iN3cyOYmTWP8iqe_JSlY-61" value="采购" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="7096.5" y="1872" width="42" height="26" as="geometry" />
