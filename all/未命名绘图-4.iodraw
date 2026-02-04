@@ -1443,11 +1443,6 @@
         <mxCell id="iN3cyOYmTWP8iqe_JSlY-4" value="初版画像" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="6645.5" y="529" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iN3cyOYmTWP8iqe_JSlY-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iN3cyOYmTWP8iqe_JSlY-5">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="6706" y="1065" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="iN3cyOYmTWP8iqe_JSlY-5" value="工厂打样" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="6645.5" y="868" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1476,7 +1471,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iN3cyOYmTWP8iqe_JSlY-9" value="长沙确认" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="6645.5" y="1057" width="120" height="60" as="geometry" />
+          <mxGeometry x="6647" y="1022" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iN3cyOYmTWP8iqe_JSlY-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iN3cyOYmTWP8iqe_JSlY-17" target="iN3cyOYmTWP8iqe_JSlY-25">
           <mxGeometry relative="1" as="geometry" />
