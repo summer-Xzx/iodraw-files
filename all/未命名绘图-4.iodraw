@@ -2044,7 +2044,17 @@
           <mxGeometry x="5841" y="3509.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iN3cyOYmTWP8iqe_JSlY-242" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iN3cyOYmTWP8iqe_JSlY-240" target="iN3cyOYmTWP8iqe_JSlY-238">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5981" y="3682" />
+              <mxPoint x="5981" y="3540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iN3cyOYmTWP8iqe_JSlY-243" value="NG" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iN3cyOYmTWP8iqe_JSlY-242">
+          <mxGeometry x="-0.004" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="iN3cyOYmTWP8iqe_JSlY-240" value="产前试做" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="5841" y="3649.5" width="120" height="60" as="geometry" />
