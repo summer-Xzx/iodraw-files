@@ -19,11 +19,11 @@
         <mxCell id="v8n_ULN4s5QUdkia3UFk-3" value="接收与评审" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="v8n_ULN4s5QUdkia3UFk-5" value="接收与评审" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="v8n_ULN4s5QUdkia3UFk-5" value="立项分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v8n_ULN4s5QUdkia3UFk-7" value="接收与评审" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="370" y="400" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
