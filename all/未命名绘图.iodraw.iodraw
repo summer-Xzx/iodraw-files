@@ -124,8 +124,11 @@
         <mxCell id="v8n_ULN4s5QUdkia3UFk-37" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;ordered_list&amp;quot;,{&amp;quot;spread&amp;quot;:true,&amp;quot;startingNumber&amp;quot;:1,&amp;quot;start&amp;quot;:110,&amp;quot;end&amp;quot;:1075},&amp;quot;regular_list_item&amp;quot;,{&amp;quot;start&amp;quot;:183,&amp;quot;end&amp;quot;:265}]&quot;&gt;牵头人：Ryder。&lt;br&gt;参与人员：Luis、产品负责人、运营、采购。&lt;br&gt;职责：确认是否推进，明确优先级、单项主责人和下一节点。&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="600" y="220" width="350" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="v8n_ULN4s5QUdkia3UFk-38" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="665" y="388" width="50" height="30" as="geometry" />
+        <mxCell id="v8n_ULN4s5QUdkia3UFk-38" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;ordered_list&amp;quot;,{&amp;quot;spread&amp;quot;:true,&amp;quot;startingNumber&amp;quot;:1,&amp;quot;start&amp;quot;:110,&amp;quot;end&amp;quot;:1075},&amp;quot;regular_list_item&amp;quot;,{&amp;quot;start&amp;quot;:267,&amp;quot;end&amp;quot;:364}]&quot;&gt;牵头人：Ryder。&lt;br&gt;专业评估：Luis、肖师傅、产品负责人。&lt;br&gt;成本与交期评估：采购。&lt;br&gt;职责：明确改善目标、可行性、资源投入、计划节点和验收标准。&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="600" y="360" width="370" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="v8n_ULN4s5QUdkia3UFk-39" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="745" y="578" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
