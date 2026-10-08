@@ -98,10 +98,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="v8n_ULN4s5QUdkia3UFk-24" value="继续观察&lt;div&gt;（样本数不够）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="1290" width="120" height="60" as="geometry" />
+          <mxGeometry x="430" y="1280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v8n_ULN4s5QUdkia3UFk-28" value="效果复盘" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="1115" width="120" height="60" as="geometry" />
+          <mxGeometry x="110" y="1290" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
