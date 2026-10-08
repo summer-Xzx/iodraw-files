@@ -80,10 +80,13 @@
           <mxGeometry x="260" y="1115" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v8n_ULN4s5QUdkia3UFk-22" value="优化改善通过" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="1290" width="120" height="60" as="geometry" />
+          <mxGeometry x="260" y="1480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v8n_ULN4s5QUdkia3UFk-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="v8n_ULN4s5QUdkia3UFk-24" target="v8n_ULN4s5QUdkia3UFk-22">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="v8n_ULN4s5QUdkia3UFk-24" value="继续观察&lt;div&gt;（样本数不够）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="1260" width="120" height="60" as="geometry" />
+          <mxGeometry x="460" y="1290" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
