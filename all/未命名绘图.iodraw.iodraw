@@ -100,6 +100,18 @@
         <mxCell id="v8n_ULN4s5QUdkia3UFk-24" value="继续观察&lt;div&gt;（样本数不够）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="1280" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="v8n_ULN4s5QUdkia3UFk-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="v8n_ULN4s5QUdkia3UFk-28" target="v8n_ULN4s5QUdkia3UFk-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="130" y="585" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v8n_ULN4s5QUdkia3UFk-31" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="v8n_ULN4s5QUdkia3UFk-30">
+          <mxGeometry x="-0.2695" y="-5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="v8n_ULN4s5QUdkia3UFk-28" value="未达预期&lt;div&gt;（重新改善）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="1290" width="120" height="60" as="geometry" />
         </mxCell>
