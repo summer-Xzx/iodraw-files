@@ -40,7 +40,7 @@
         <mxCell id="v8n_ULN4s5QUdkia3UFk-11" value="样品验证通过" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="695" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="v8n_ULN4s5QUdkia3UFk-13" value="样品验证通过" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="v8n_ULN4s5QUdkia3UFk-13" value="小批量量产验证" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="835" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
