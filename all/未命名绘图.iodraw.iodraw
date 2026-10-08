@@ -64,8 +64,14 @@
         <mxCell id="v8n_ULN4s5QUdkia3UFk-13" value="小批量量产验证" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="835" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="v8n_ULN4s5QUdkia3UFk-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v8n_ULN4s5QUdkia3UFk-15" target="v8n_ULN4s5QUdkia3UFk-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="v8n_ULN4s5QUdkia3UFk-15" value="发货销售" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="975" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v8n_ULN4s5QUdkia3UFk-20" value="效果复盘" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1115" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
