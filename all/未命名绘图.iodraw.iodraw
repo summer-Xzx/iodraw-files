@@ -121,6 +121,9 @@
         <mxCell id="v8n_ULN4s5QUdkia3UFk-36" value="&lt;span style=&quot;background-color: rgb(255, 217, 102);&quot;&gt;运营：Oria&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 217, 102);&quot;&gt;产品：Ivy&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 217, 102);&quot;&gt;品质：Luis&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="700" y="95" width="80" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="v8n_ULN4s5QUdkia3UFk-37" value="&lt;span style=&quot;background-color: rgb(255, 217, 102);&quot;&gt;运营：Oria&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 217, 102);&quot;&gt;产品：Ivy&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 217, 102);&quot;&gt;品质：Luis&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="700" y="240" width="80" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
