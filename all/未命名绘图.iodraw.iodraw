@@ -49,7 +49,17 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="v8n_ULN4s5QUdkia3UFk-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="v8n_ULN4s5QUdkia3UFk-13" target="v8n_ULN4s5QUdkia3UFk-9">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="190" y="870" />
+              <mxPoint x="190" y="585" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v8n_ULN4s5QUdkia3UFk-19" value="NG" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="v8n_ULN4s5QUdkia3UFk-18">
+          <mxGeometry x="0.0353" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="v8n_ULN4s5QUdkia3UFk-13" value="小批量量产验证" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="835" width="120" height="60" as="geometry" />
