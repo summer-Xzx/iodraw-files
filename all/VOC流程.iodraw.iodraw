@@ -31,12 +31,6 @@
         <mxCell id="v8n_ULN4s5QUdkia3UFk-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v8n_ULN4s5QUdkia3UFk-9" target="v8n_ULN4s5QUdkia3UFk-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="v8n_ULN4s5QUdkia3UFk-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v8n_ULN4s5QUdkia3UFk-9" target="v8n_ULN4s5QUdkia3UFk-54">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="v8n_ULN4s5QUdkia3UFk-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v8n_ULN4s5QUdkia3UFk-9" target="v8n_ULN4s5QUdkia3UFk-54">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="v8n_ULN4s5QUdkia3UFk-9" value="方案与验证" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="555" width="120" height="60" as="geometry" />
         </mxCell>
@@ -182,7 +176,7 @@
         <mxCell id="v8n_ULN4s5QUdkia3UFk-51" value="物料评审" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="813" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="v8n_ULN4s5QUdkia3UFk-54" value="评估是否需要小批量验证" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="v8n_ULN4s5QUdkia3UFk-54" value="评估是否需要小批量验证" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="460" y="555" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
