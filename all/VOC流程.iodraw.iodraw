@@ -163,6 +163,9 @@
         <mxCell id="v8n_ULN4s5QUdkia3UFk-50" value="邮件抄送部门：运营，品质，项目，采购，&lt;div&gt;计划，产品，CEO，供应商&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="620" y="705" width="250" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="v8n_ULN4s5QUdkia3UFk-51" value="量产验证" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="890" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
