@@ -90,11 +90,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="v8n_ULN4s5QUdkia3UFk-27" value="OK" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="v8n_ULN4s5QUdkia3UFk-26" vertex="1" connectable="0">
-          <mxGeometry x="-0.4467" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="v8n_ULN4s5QUdkia3UFk-24" value="继续观察&lt;div&gt;（样本数不够）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="430" y="1475" width="120" height="60" as="geometry" />
         </mxCell>
@@ -178,7 +173,7 @@
           <mxGeometry x="320" y="1110" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UAbTpTZqQmHJ9uwrC-XF-9" value="&lt;b&gt;未通过&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="180" y="705" width="60" height="30" as="geometry" />
+          <mxGeometry x="170" y="1030" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
