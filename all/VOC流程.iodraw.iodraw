@@ -173,8 +173,8 @@
         <mxCell id="UAbTpTZqQmHJ9uwrC-XF-4" value="&lt;b&gt;推进&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="340" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UAbTpTZqQmHJ9uwrC-XF-5" value="&lt;b&gt;推进&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="330" y="350" width="60" height="30" as="geometry" />
+        <mxCell id="UAbTpTZqQmHJ9uwrC-XF-5" value="&lt;b&gt;未通过&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="640" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
