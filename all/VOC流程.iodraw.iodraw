@@ -185,8 +185,8 @@
         <mxCell id="v8n_ULN4s5QUdkia3UFk-54" value="评估是否需要小批量验证" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="460" y="555" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UAbTpTZqQmHJ9uwrC-XF-1" value="牵头人：Luis。&#xa;技术验证：肖师傅。&#xa;产品体验确认：产品负责人。&#xa;职责：按照验收标准验证样品；&#xa;通过后进入小批量量产验证，未通过则返回方案与验证。" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
-          <mxGeometry x="900" y="660" width="320" height="120" as="geometry" />
+        <mxCell id="UAbTpTZqQmHJ9uwrC-XF-1" value="牵头人：Sara&lt;br&gt;物料/订单：Sara。&lt;br&gt;库存：Kevin&lt;br&gt;职责：确认具体数量情况，预计切换时间。" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="890" y="808" width="250" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
