@@ -178,8 +178,8 @@
         <mxCell id="UAbTpTZqQmHJ9uwrC-XF-10" value="&lt;b&gt;达标&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="310" y="1475" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UAbTpTZqQmHJ9uwrC-XF-11" value="责任人及职责" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="250" y="-40" width="140" height="40" as="geometry" />
+        <mxCell id="UAbTpTZqQmHJ9uwrC-XF-11" value="VOC" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="285" y="-40" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
