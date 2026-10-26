@@ -64,11 +64,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="v8n_ULN4s5QUdkia3UFk-19" value="NG" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="v8n_ULN4s5QUdkia3UFk-18" vertex="1" connectable="0">
-          <mxGeometry x="0.0353" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="v8n_ULN4s5QUdkia3UFk-13" value="量产" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="1030" width="120" height="60" as="geometry" />
         </mxCell>
@@ -113,11 +108,6 @@
             <Array as="points">
               <mxPoint x="130" y="585" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="v8n_ULN4s5QUdkia3UFk-31" value="NG" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="v8n_ULN4s5QUdkia3UFk-30" vertex="1" connectable="0">
-          <mxGeometry x="-0.2695" y="-5" relative="1" as="geometry">
-            <mxPoint x="-5" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="v8n_ULN4s5QUdkia3UFk-28" value="未达预期&lt;div&gt;（重新改善）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
