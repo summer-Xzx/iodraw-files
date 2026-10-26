@@ -51,11 +51,6 @@
         <mxCell id="v8n_ULN4s5QUdkia3UFk-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="v8n_ULN4s5QUdkia3UFk-13" target="v8n_ULN4s5QUdkia3UFk-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="v8n_ULN4s5QUdkia3UFk-17" value="OK" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="v8n_ULN4s5QUdkia3UFk-16" vertex="1" connectable="0">
-          <mxGeometry x="-0.2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="v8n_ULN4s5QUdkia3UFk-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="v8n_ULN4s5QUdkia3UFk-13" target="v8n_ULN4s5QUdkia3UFk-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -180,7 +175,7 @@
           <mxGeometry x="320" y="770" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UAbTpTZqQmHJ9uwrC-XF-7" value="&lt;b&gt;通过&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="350" y="1105" width="60" height="30" as="geometry" />
+          <mxGeometry x="320" y="1110" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
