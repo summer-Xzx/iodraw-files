@@ -175,6 +175,9 @@
         <mxCell id="UAbTpTZqQmHJ9uwrC-XF-9" value="&lt;b&gt;未通过&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="170" y="1030" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="UAbTpTZqQmHJ9uwrC-XF-10" value="&lt;b&gt;通过&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="1120" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
