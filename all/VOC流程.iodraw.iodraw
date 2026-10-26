@@ -182,7 +182,7 @@
         <mxCell id="UAbTpTZqQmHJ9uwrC-XF-1" value="牵头人：Sara&lt;br&gt;物料/订单：Sara。&lt;br&gt;库存：Kevin&lt;br&gt;职责：确认具体数量情况，预计切换时间。" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
           <mxGeometry x="890" y="800" width="250" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="UAbTpTZqQmHJ9uwrC-XF-2" value="发送人：Luis&lt;br&gt;&lt;span style=&quot;text-align: center;&quot;&gt;邮件抄送部门：运营，品质，项目，采购，&lt;/span&gt;&lt;div style=&quot;text-align: center;&quot;&gt;计划，产品，CEO，供应商&lt;/div&gt;职责：确认具体数量情况，预计切换时间。" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
+        <mxCell id="UAbTpTZqQmHJ9uwrC-XF-2" value="发送人：Luis&lt;br&gt;&lt;span style=&quot;text-align: center;&quot;&gt;邮件抄送部门：运营，品质，项目，采购，&lt;/span&gt;&lt;div style=&quot;text-align: center;&quot;&gt;计划，产品，CEO，供应商&lt;/div&gt;职责：说明样品改善位置。" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
           <mxGeometry x="890" y="905" width="250" height="70" as="geometry" />
         </mxCell>
       </root>
